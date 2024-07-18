@@ -1,0 +1,92 @@
+---
+title: "REDCap"
+format: html
+editor: visual
+---
+
+# Vejledning i brug af REDCap
+
+## Hvad er REDCap?
+
+REDCap (Electronic Data Capture system) er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC.
+
+## Opstart af REDCap
+
+Når man er tilføjet som REDCap-bruger og tildelt rettigheder i LIVING databasen kan databasen åbnes via dette link: <https://redcap.au.dk/>
+
+Scroll ned i bunden af siden og login med de brugeroplysninger du har modtaget på mail
+
+![](redc2.png)
+
+Når du er logget ind vælger du fanen `My Projects` i topmenuen, scroller ned i bunden af siden og vælger `LIVING`i **My Projects**
+
+![](redc3.png)
+
+Du finder alt du skal bruge i menuen til venstre. Menuen er sammensat så den kun indeholder funktioner som du skal bruge.
+
+![](redc4.png)
+
+## Oprettelse og indtastning af deltager i REDCap
+
+![](redc5.png)
+
+Opret en ny borger ved at trykke på `+Add ned record`. Dette kan gøres inden den afklarende samtale
+
+![](redc6.png)
+
+Tryk på cirklen for `1. besøg`
+
+![](redc7.png)
+
+## Indtastning
+
+Du kan indtaste data på borgeren inden den afklarende samtale
+Du kan altid gemme og vende tilbage til indtastningen ved at trykke `Save & Exit Form`
+
+![](redc8.png)
+
+::: callout-warning
+Se bort fra feltet `Uploadfelt til samtykke`. Gem det skriftlige samtykke i en mappe
+
+**!** Randomisering SKAL først ske, når skriftligt samtykke er indhentet
+:::
+
+![](redc14.png)
+
+Informer borgeren om hvilken gruppe de er kommet i. I dette tilfælde **intervention**
+
+![](redc9.png)
+
+## Send spørgeskema til borger
+
+Marker hele linket `Unikt link til Questionnaire` ved at trykke `(Ctrl + a)`, kopier det `(Ctrl + c)` og send link til borger til e-boks via fx dok2 mail
+
+![](redc15.png)
+
+## Søg en borger frem
+
+I `Search query`kan du søge en borger frem vha. CPR eller navn
+
+![](redc10.png)
+
+## Vælg indtastningsark
+
+::: callout-warning
+Når du søger en borger frem åbner den altid i 1. besøg. Tryk på `Record ID` for at få overblik over alle besøg
+:::
+
+![](redc11.png)
+
+## Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data
+
+`Farverne` indikerer status for ark. Status ændres i bunden af hvert ark
+
+![](redc12.png)
+
+## Afslutte registrering på besøg
+
+I bunden af hvert ark kan vælges status og `Save & Exit Form` eller `Save & Go To Next Form` (dropdown menu)
+
+Når al data er udfyldt ændres `Form Status` fra **Incomplete** til **Complete** i dropdown menuen
+
+![](redc13.png)
