@@ -74,7 +74,8 @@ Manchetten rengøres en gang dagligt eller efter behov
 
 ## Billede af blodtryksmåling
 
-![OBS! Måling foretages på HØJRE arm og ikke på venstre som billedet viser](bp.png)
+[![**OBS! Måling foretages på HØJRE arm og ikke på venstre som billedet visers**](bp.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/bp.PNG)
+
 
 # Fingerpriktest (Hba1c)
 
@@ -123,7 +124,8 @@ Ved bestemmelse af Hæmoglobin A1c fås et mål for en persons gennemsnitlige ko
 
 ## Billede af hba1c prøve
 
-![Testen udføres på samme måde for lipider](hba1c.png)
+[![Testen udføres på samme måde for lipider](hba1c.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/hba1c.PNG)
+
 
 # Hoftemål
 
@@ -159,7 +161,8 @@ Er hofteomfang større end målebånd noteres dette i bemærkningsfeltet i REDca
 
 ## Billede af hoftemål
 
-![](hofte.png)
+[![](hofte.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/hofte.PNG)
+
 
 # Taljemål
 
@@ -202,7 +205,8 @@ Er taljemålet større end målebånd noteres dette i bemærkningsfeltet i REDca
 
 ## Billede af taljemål
 
-![](talje.png)
+[![](talje.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/talje.PNG)
+
 
 # Bioempedans
 
@@ -426,4 +430,4 @@ At sikre præcis måling af fysisk aktivitet.
 
 ## Billede af aktivitetsmåling
 
-![OBS! på billedet er den øverste film ikke taget af, for at gøre tapen tydeligt på billedet](acc.PNG)
+[![OBS! på billedet er den øverste film ikke taget af, for at gøre tapen tydeligt på billedet](acc.PNG)]https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/acc.PNG
