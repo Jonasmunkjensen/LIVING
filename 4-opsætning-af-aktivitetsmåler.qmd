@@ -1,9 +1,3 @@
----
-title: "Opsætning af aktivitetsmåler"
-format: html
-editor: visual
----
-
 # Opsætning af aktivitetsmåler
 
 ## Download OmGui
