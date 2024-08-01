@@ -1,9 +1,3 @@
----
-title: "REDCap"
-format: html
-editor: visual
----
-
 # Vejledning i brug af REDCap
 
 ## Hvad er REDCap?
