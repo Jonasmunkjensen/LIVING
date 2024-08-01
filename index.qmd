@@ -1,7 +1,6 @@
 ---
-title: "index"
-format: html
-editor: visual
+execute: 
+  echo: false
 ---
 
 ::: {style="opacity: 0"} 
