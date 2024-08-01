@@ -1,0 +1,25 @@
+---
+title: "index"
+format: html
+editor: visual
+---
+
+::: {style="opacity: 0"} 
+# Cover Page {.unnumbered .unlisted} 
+:::
+
+```{r}
+#| label: rm-cover-fig
+#| fig-align: center
+#| out-width: 40%
+#| echo: false
+#| fig-alt: Steno Diabetes Center Aarhus, Aarhus Universitetshospital
+
+knitr::include_graphics("figures/rmlogo.png")
+```
+
+::: {style="text-align: center"}
+**Testmanualer og informationer**\
+**Steno Diabetes Center Aarhus**\
+**Aarhus Universitetshospital**
+:::
