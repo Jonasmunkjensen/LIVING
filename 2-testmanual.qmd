@@ -1,9 +1,3 @@
----
-title: "procedure_for_biologiske_mål.qmd"
-format: html
-editor: visual
----
-
 # Testmanual
 
 # Blodtryk
