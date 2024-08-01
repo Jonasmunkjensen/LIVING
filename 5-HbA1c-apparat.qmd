@@ -1,0 +1,168 @@
+---
+title: "HbA1c apparat"
+format: html
+editor: visual
+---
+
+# Optisk kontrol
+
+- Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.
+
+- Optisk kontrol tager et øjeblik, og bør måles hver dag instrumentet skal anvendes til tests.
+
+[![](ok1.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/ok1.PNG)
+
+## Opbevaring
+
+- Den optiske test disc må **IKKE** komme på køl men skal opbevares ved stuetemperatur.
+
+## Udfør optisk kontrol
+
+1. Vælg `Kontroltest --> Optisk test`
+
+2. Vælg `Åbn`. Åbn låget, indsæt optisk test disc og luk låget
+
+3. Vælg `flueben`. Efter få sekunder er testen færdig
+
+4. Vælg `flueben`. 
+
+5. Vælg `Åbn`. Åbn låget, fjern optisk test disc og gem den i etuiet
+
+6. Luk låget. `Hovedskærmen` vises og apparatet er klar til at foretage hba1c målinger
+
+
+# Kvalitetskontrol af HbA1c kassetter
+
+Der foretages kvalitetskontrol hver tredje måned. 
+
+## Opbevaring
+
+-   HbA1c kontrollerne skal opbevares på køl ved en temperatur mellem 2°C og 8°C.
+
+-   I bliver orienteret når der leveres en ny pakke, så vi undgår at pakken ligger udenfor køl.
+
+## Pakkespecifikationer
+
+-   Kontrollerne kommer i to niveauer (*niveau 1* og *niveau 2*).
+
+-   Hver pakke indeholder to sæt kontroller: 2 x *niveau 1* og 2 x *niveau 2*.
+
+## Holdbarhed
+
+-   Efter åbning kan et sæt kontroller opbevares på køl og anvendes i op til 30 dage
+
+-   Uåbnede sæt kan opbevares indtil udløbsdatoen, som er angivet på pakken. Udløbsdatoen er normalt omkring et år.
+
+::: callout-warning
+Inden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhed. Apparatet skal indstilles til at angive HbA1C som IFCC. Vælg `indstillinger` --\> `QC-måling` --\> `enheder` --\> `IFCC`
+:::
+
+## Udfør kvalitetskontrol
+
+1.  Nødvendige materialer
+
+**A)** 1 HbA1c QC Info disc
+
+**B)** 1 QC-opløsning niveau 1
+
+**C)** 1 QC-opløsning niveau 2
+
+**D)** 2 HbA1c-kassetter
+
+[![](qc1.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc1.PNG)
+
+2.  Tænd for instrumentet
+
+[![](qc2.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc2.PNG)
+
+3.  Vælg `Kontroltest`, og vælg derefter `QC-måling`
+
+[![](qc3.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc3.PNG)
+
+4.  Vælg `Nyt QC Lot`
+
+[![](qc4.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc4.PNG)
+
+5.  Tag Info disc frem
+
+[![](qc5.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc5.PNG)
+
+6.  For at åbne låget skal du vælge `Åbn` på skærmen og følge vejledningerne på skærmen
+
+[![](qc6.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc6.PNG)
+
+7.  Anbring QC Info disc på drejeskiven inden for den hvide cirkel
+
+[![](qc7.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc7.PNG)
+
+8.  Luk låget
+
+[![](qc8.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc8.PNG)
+
+9.  Målværdierne og målområderne for *niveau 1* og *niveau 2* vises. Vælg `flueben` for at validere værdierne. QC-oplysningerne gemmes automatisk i systemet
+
+[![](qc9.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc9.PNG)
+
+10. Vælg niveauet for QC-målingen (*Niveau 1* eller *Niveau 2*)
+
+[![](qc10.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc10.PNG)
+
+11. Åbn posen med kassetten, og tag HbA1c-kassetten ud
+
+[![](qc11.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc11.PNG)
+
+12. Læg kassetten på bagsiden, og åbn den helt
+
+[![](qc12.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc12.PNG)
+
+13. Påfør forsigtigt en dråbe QC-opløsning på sugepunktet. Kontrollér, at det er på det niveau, som du netop har valgt
+
+[![](qc13.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc13.PNG)
+
+14. Kontrollér prøvemængden: Området markeret med blå skal være helt fyldt ud med QC-opløsning
+
+[![](qc14.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc14.PNG)
+
+15. Luk det hængslede dæksel fast. Når det hængslede dæksel er lukket, kan det ikke åbnes igen
+
+[![](qc15.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc15.PNG)
+
+16. Vælg `Åbn`. Fjern HbA1c QC Info disc. Sæt HbA1c-kassetten i. Luk låget
+
+[![](qc16.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc16.PNG)
+
+17. Kontrollér, at QC-opløsningens lotnummer svarer til det lotnummer, der vises på skærmen. Vælg `flueben` for at starte målingen
+
+[![](qc17.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc17.PNG)
+
+18. Når målingen er udført, skal du vælge `flueben` for at fortsætte med QC-målingen på det andet niveau
+
+[![](qc18.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc18.PNG)
+
+19. Åbn posen med kassetten, og tag HbA1c-kassetten ud
+
+[![](qc19.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc19.PNG)
+
+20. Vælg `Åbn` på skærmen for at åbne låget. Fjern den første HbA1c-kassette, sæt derefter den anden HbA1c-kassette i, og luk låget
+
+[![](qc20.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc20.PNG)
+
+21. Kontrollér, at QC-opløsningens lotnummer svarer til det lotnummer, der vises på skærmen. Vælg `flueben` for at starte målingen
+
+[![](qc21.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc21.PNG)
+
+22. Når målingen er udført, vises resultaterne for både *niveau 1* og *niveau 2*
+
+[![](qc22.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc22.PNG)
+
+23. For at afslutte målingen skal du vælge `flueben` på skærmen og bortskaffe kassetterne på korrekt vis
+
+[![](qc23.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc23.PNG)
+
+# Rengøring
+
+Der er ingen standarter for hvor ofte apparatet skal rengøres. Fabrikanten anbefaler faktisk kun rengøring og desinficering, hvis der ses synligt støv eller snavs, eller hvis der er et spild. Fx hvis en kassette ikke har været lukket korrekt inden det sættes i instrumentet, og prøvematerialet slynges ud af kassetten under centrifugering - dette medfører dog også en fejlmeddelelse, og analysen stopper, hvorefter der skal rengøres indvendigt.
+
+Til rengøring indvendig benyttes wetwipes som indeholder 70% ethanol. 
+
+Til udvendig rengøring benyttes tørre, bløde og fnugfri klude.
