@@ -1,9 +1,3 @@
----
-title: "HbA1c apparat"
-format: html
-editor: visual
----
-
 # Optisk kontrol
 
 - Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.
