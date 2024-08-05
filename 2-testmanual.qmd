@@ -68,7 +68,7 @@ Manchetten rengøres en gang dagligt eller efter behov
 
 ### Billede af blodtryksmåling
 
-[![OBS! Måling foretages på HØJRE arm og ikke på venstre som billedet visers](bp.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/bp.PNG)
+![OBS! Måling foretages på HØJRE arm og ikke på venstre som billedet viser](pics/bp.PNG)
 
 ## Fingerpriktest (Hba1c)
 
