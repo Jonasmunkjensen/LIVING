@@ -1,0 +1,21 @@
+{
+  "hash": "55b34540ae4f10e48d84098a2ba3f4af",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nformat: \n  html: default\n  pdf: default\nexecute: \n  echo: false\n---\n\n\n\n::: {.content-hidden when-format=\"html\"}\n# Forside {.unnumbered .unlisted}\n:::\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](figures/rmlogo.png){fig-align='center' fig-alt='Steno Diabetes Center Aarhus, Aarhus Universitetshospital' width=40%}\n:::\n:::\n\n\n\n::: {style=\"text-align: center\"}\n**Testmanualer og informationer**\\\n**Steno Diabetes Center Aarhus**\\\n**Aarhus Universitetshospital**\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}
