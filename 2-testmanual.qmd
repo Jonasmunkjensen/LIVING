@@ -117,7 +117,7 @@ Ved bestemmelse af Hæmoglobin A1c fås et mål for en persons gennemsnitlige ko
 
 ### Billede af hba1c prøve
 
-[![](hba1c.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/hba1c.PNG)
+![](pics/hba1c.PNG)
 
 ## Hoftemål
 
