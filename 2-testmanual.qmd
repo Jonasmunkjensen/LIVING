@@ -1,24 +1,24 @@
-# Testmanual
+# Testmanual {#sec-testmanual}
 
-# Blodtryk
+## Blodtryk
 
 Første måling er blodtryksmåling, da borger skal være så afslappet som muligt.
 
-## Formål
+### Formål
 
 Monitorering af blodtryk.
 
-## Teori
+### Teori
 
 Blodtrykket måles i enheden millimeter kviksølv og består af det diastoliske og systoliske tryk. Det systoliske tryk (slagtrykket) er det maksimale tryk, der er i en pulsåre, lige idet hjertet trækker sig sammen og presser blodet ud i pulsårerne. Det diastoliske tryk (hviletrykket) er det laveste tryk, som blodet udøver på pulsårens væg, når hjertet slapper af mellem to slag og blodet strømmer frit.
 
-## Referenceramme
+### Referenceramme
 
 BT under 140/90 Puls 50-80 Hvis borger har en kronisk sygdom ex. diabetes, hjertesygdom, nyresygdom skal blodtrykket være under 130/80
 
-## Målingen
+### Målingen
 
-### Forberedelse
+#### Forberedelse
 
 -   Mål omkreds på overarmen, ca. 8-10 cm fra albuebøjningen, for at sikre korrekt brug af manchetstørrelse.
 -   Lad borgeren hvilke i minimum 5 minutter inden målingen påbegyndes.
@@ -26,7 +26,7 @@ BT under 140/90 Puls 50-80 Hvis borger har en kronisk sygdom ex. diabetes, hjert
 -   Begge fødder skal hvile i gulvet og benene må IKKE være krydsede. Ryggen skal hvile mod ryglænet. Borgeren må IKKE rejse sig inden for de 5 min. Ej heller mellem målingerne, da dette kan øge blodtrykket.
 -   Lad borgerens HØJRE arm ligge i korrekt stilling med håndfladen opad. Overarmen skal ligge så manchetten placeres i hjertehøjde.
 
-### Placering af manchetten
+#### Placering af manchetten
 
 -   Manchetten placeres på armen.
 -   Udfør håndhygiejne.
@@ -34,23 +34,23 @@ BT under 140/90 Puls 50-80 Hvis borger har en kronisk sygdom ex. diabetes, hjert
 -   Placer manchetten omkring armen ca. 2 cm. over albuebøjningen.
 -   Placer midten af manchetten over a.brachialis og stram den til, så den sidder tæt og glat på overarmen uden at give stase. (se billede)
 
-### Start blodtryksmåling
+#### Start blodtryksmåling
 
 -   Tryk på START.
 -   Armen skal holdes i ro og borger må ikke tale under eller mellem målingerne.
 
-### Gentag måling
+#### Gentag måling
 
 -   Målingen gentages efter 1 minut.
 -   Der måles en 3.gang hvis de to foregående målinger er forhøjet i forhold til referencerammen (140/90).
 
-### Efterarbejde
+#### Efterarbejde
 
 -   Tag manchetten af.
 -   Rengør manchet og blodtryksapparat i henhold til producentens anbefalinger.
 -   Udfør håndhygiejne
 
-## Handlinger
+### Handlinger
 
 -   Hvis blodtrykket er over **200/120** skal målingen gentages efter en pause på ca. et kvarter og evt. i den anden arm. Hvis blodtrykket stadig er højt kontaktes borgerens egen læge eller vagtlæge (tlf.**70 11 31 31**) uden for lægens åbningstid. Der vurderes herefter i det enkelte tilfælde om borgeren skal fortsætte eller ej. Hvis lægen mener, borgeren skal komme til nærmere undersøgelse enten hos lægen eller lægevagt, spørges til, om det er forsvarligt, at borgeren kører i egen bil. Hvis ikke sættes borgeren i en taxa. Hvis lægen siger ok for, at borgeren kan fortsætte med undersøgelsen foretages de manglende målinger, undtaget funktionstest.
 -   Hvis blodtrykket er over 180/110 skal borgeren ikke lave funktionstest.
@@ -62,42 +62,41 @@ BT under 140/90 Puls 50-80 Hvis borger har en kronisk sygdom ex. diabetes, hjert
 I tilfælde af at BT ligger meget over/under normalområdet, og borgeren ikke ønsker at kontakte egen læge, må dette respekteres
 :::
 
-## Rengøring
+### Rengøring
 
 Manchetten rengøres en gang dagligt eller efter behov
 
-## Billede af blodtryksmåling
+### Billede af blodtryksmåling
 
-[![**OBS! Måling foretages på HØJRE arm og ikke på venstre som billedet visers**](bp.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/bp.PNG)
+[![OBS! Måling foretages på HØJRE arm og ikke på venstre som billedet visers](bp.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/bp.PNG)
 
+## Fingerpriktest (Hba1c)
 
-# Fingerpriktest (Hba1c)
-
-## Formål
+### Formål
 
 Bestemmelse af langtidsblodsukker
 
-## Teori
+### Teori
 
 Ved bestemmelse af Hæmoglobin A1c fås et mål for en persons gennemsnitlige koncentration af glukose (sukker) i blodet i løbet af de sidste 2 til 3 måneder. HbA1c er under normale omstændigheder et godt mål for kvaliteten af blodsukkerets regulering de foregående 2 måneder. Prøven viser, hvor stor en del af den totale mængde hæmoglobin i blodet, der har sukker bundet til sig. Svaret afgives i mmol/mol.
 
-## Forberedelse
+### Forberedelse
 
 -   Hvis I vælger at benytte handsker, benyt **kun** pudderfri handsker.
 -   Berøring af kassetten: Anvendes pudderfri handsker, må alle flader på kassetten berøres. Anvendes der **ikke pudderfri handsker**, må sugepunktet og de gennemsigtige flader på kassetten IKKE berøres.
--   Optisk kontrol: En måling på den medfølgende optiske kontrolkassette bør udføres en gang ugentligt **INDSÆT SPRING TIL DOC**.
+-   Optisk kontrol: En måling på den medfølgende optiske kontrolkassette bør udføres hver dag der testes borgere (@sec-optisk-kontrol).
 -   Sørg for at apparatet er tændt og klart.
 -   Bed borgeren om at vaske sine fingre grundigt.
 -   Sørg for at borgeren sidder med armen i nedadgående retning – kør evt. skrivebordet ned. Det kan være effektivt at lade borgeren svinge armen rundt et par gange, eller massere blodet mod fingeren.
 -   Åbn både lipid og hba1c kassetterne.
 
-## Foretag prøven
+### Foretag prøven
 
 -   Stik i fingeren, massér blidt fingeren for at få en stor bloddråbe frem.
 
-## Påføring af prøve og analyse
+### Påføring af prøve og analyse
 
-### Fyld HbA1c-kassetten
+#### Fyld HbA1c-kassetten
 
 -   Anbring kassetten med den **trykte side opad** og sugepunktet over bloddråben.
 -   Påfør bloddråben, og hold øje med, at det markerede (blå) område er fyldt. Kontrollér prøvevolumen ved at vende kassetten om og se, om det område, der er markeret med blåt, er helt fyldt.
@@ -112,22 +111,21 @@ Ved bestemmelse af Hæmoglobin A1c fås et mål for en persons gennemsnitlige ko
 -   Resultaterne fremkommer på skærmen
 -   Resultatet indtastes i REDcap
 
-## Prøvens holdbarhed i kassetten
+### Prøvens holdbarhed i kassetten
 
 -   **HbA1c:** Når der er påført blod i kassetten, skal den indføres i instrumentet inden for 1 minut.
 
-## Billede af hba1c prøve
+### Billede af hba1c prøve
 
-[![Testen udføres på samme måde for lipider](hba1c.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/hba1c.PNG)
+[![](hba1c.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/hba1c.PNG)
 
+## Hoftemål
 
-# Hoftemål
-
-## Formål
+### Formål
 
 At måle deltagerens hofteomfang
 
-## Eksklusionskriterier
+### Eksklusionskriterier
 
 -   Vanskeligheder ved at stå oprejst
 -   Gravid (efter uge 29)
@@ -137,12 +135,12 @@ At måle deltagerens hofteomfang
 Er hofteomfang større end målebånd noteres dette i bemærkningsfeltet i REDcap, sammen med målebåndets længde
 :::
 
-## Måleudstyr
+### Måleudstyr
 
 -   Ikke elastisk målebånd (200 til 225 cm.)
 -   Hvis muligt et spejl i kropshøjde og stol på hjul.
 
-## Målingen
+### Målingen
 
 -   Målingen udføres, mens borgeren har undertøj på. Hvis borgeren foretrækker at beholde tøjet på, udføres målingen med tøjet på, og dette registreres.
 -   Hoftemålet foretages med deltageren stående med strakte, let spredte ben (fodafstand ca.20 cm.).
@@ -153,18 +151,17 @@ Er hofteomfang større end målebånd noteres dette i bemærkningsfeltet i REDca
 -   Deltageren står foran undersøgeren, som er siddende på en stol.
 -   Målingen udføres en gang og afrundes til nærmeste millimeter.
 
-## Billede af hoftemål
+### Billede af hoftemål
 
 [![](hofte.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/hofte.PNG)
 
+## Taljemål
 
-# Taljemål
-
-## Formål
+### Formål
 
 At måle borgers talje omfang. Taljemål bruges som en indikator for abdominal fedme og er associeret med type 2 diabetes.
 
-## Eksklusionskriterier
+### Eksklusionskriterier
 
 -   Vanskeligheder ved at stå oprejst
 -   Gravid (efter uge 29)
@@ -177,12 +174,12 @@ At måle borgers talje omfang. Taljemål bruges som en indikator for abdominal f
 Er taljemålet større end målebånd noteres dette i bemærkningsfeltet i REDcap - sammen med målebåndets længde
 :::
 
-## Måleudstyr
+### Måleudstyr
 
 -   Ikke elastisk målebånd (200 til 225 cm.)
 -   Hvis muligt et spejl i kropshøjde og stol på hjul.
 
-## Målingen
+### Målingen
 
 -   Målingen udføres, mens borgeren har undertøj på. Hvis borgeren foretrækker at beholde tøjet på, udføres målingen med tøjet på, og dette registreres.
 -   Taljemålet måles med deltageren stående med strakte, let spredte ben (fodafstand ca.20 cm.).
@@ -191,24 +188,23 @@ Er taljemålet større end målebånd noteres dette i bemærkningsfeltet i REDca
 -   Målebåndet placeres midt mellem nederste ribbenskurvatur og øverste hoftekant, crista iliaca. Der kan eventuelt bruges en tusch til at markere, hvor målebåndet skal placeres. Det kontrolleres, at målebåndet sidder ens i begge sider og er vandret. Målebåndet holdes tæt, men ikke stramt. Det skal være muligt at få en finger under målebåndet.
 -   Målingen udføres en gang ved ekspiration, og afrundes til nærmeste millimeter.
 
-## Talje/Hofte Ratio (THR)
+### Talje/Hofte Ratio (THR)
 
 -   THR afspejler intraabdominal fedme.
 -   Høj THR er bedre korreleret til anden sygdom end BMI eller vægten alene.
 -   THR er defineret som: T/H = Talje(cm)/ Hofte(cm).
 
-## Billede af taljemål
+### Billede af taljemål
 
 [![](talje.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/talje.PNG)
 
+## Bioempedans
 
-# Bioempedans
-
-## Formål
+### Formål
 
 Body Composition analyser bruger bioelektrisk impedans analyse (BIA). BIA fungerer ved at sende et sikkert elektrisk signal gennem kroppen, som møder modstand, når den passerer gennem fedtvæv. Modstanden, som signalet møder, kaldes for impedans. Den kalkulerer fedtprocenten ved anvendelse af køn, højde og vægt. Uafhængige forskningsstudier har vist, at Tanita BIA er nøjagtig indenfor +/-4 procentpoint af DEXA (Dual energy X-ray Absorptiometry) og giver nøjagtige og gentagne resultater, når den bruges under ensartede forhold.
 
-## Kontraindikationer
+### Kontraindikationer
 
 -   Pacemaker.
 -   Hård hud under fødderne.
@@ -216,11 +212,11 @@ Body Composition analyser bruger bioelektrisk impedans analyse (BIA). BIA funger
 -   Borgere, der ikke kan stå uden støtte
 -   Hvis målingen ikke foretages noteres årsagen i REDcap og selvoplyst vægt noteres.
 
-## Måleudstyr
+### Måleudstyr
 
 Tanita kropsanalysevægt
 
-## Forberedelse
+### Forberedelse
 
 -   Vægten bør være placeret på et fladt underlag uden vibrationer
 -   Borgeren bliver bedt om at tømme lommerne og tage sko, strømper og tykt tøj af, så vedkommende kun har et enkelt lag tøj på svarende til årstiden.
@@ -229,7 +225,7 @@ Tanita kropsanalysevægt
 -   Forfod og hæl skal røre de magnetiske felter.
 -   Borger bør stå stille på vægten under målingen.
 
-## Målingen
+### Målingen
 
 1.  Tænd = gul knap.
 2.  Blinker ud for PT, tast ind for tøj = 1 kg Tryk ENTER.
@@ -240,31 +236,31 @@ Tanita kropsanalysevægt
 7.  HEIGHT blinker = tast højde i cm, herefter ENTER.
 8.  Stå stille og afvent udskrift.
 
-## Kalibrering
+### Kalibrering
 
 Sker efter sundhedscenterets egne procedurer
 
-# 30-sekunder rejse-sætte-sig-test (RSS)
+## 30-sekunder rejse-sætte-sig-test (RSS)
 
-## Formål
+### Formål
 
 30-s rejse-sætte-sig (RSS)-testen måler, hvor mange gange man kan rejse sig fra en stol på 30 sekunder
 
-## Teori
+### Teori
 
 Formålet med rejse-sætte-sig-testen er at vurdere muskelstyrken og muskeludholdenheden i underkroppen. Resultatet af testen afhænger dog også af en række andre faktorer f.eks. smerter, ledproblemer, balance og motivation. Testen er vist valid til gruppen af hjemmeboende ældre (+60), og det vurderes, at testen viser styrke hos gruppen af ældre med en vis funktionsnedsættelse. Der er påvist en stærk sammenhæng mellem nedsat muskelstyrke og faldrisiko. Ligeledes er det påvist, at personer, der ikke klarer otte oprejsninger, er i høj risiko for tab af funktionel mobilitet <https://fysio.dk/maleredskaber>
 
-## Kontraindikationer
+### Kontraindikationer
 
 -   Blodtryk over 180/110 (se manual for blodtryk)
 
-## Måleudstyr
+### Måleudstyr
 
 -   Der benyttes en højrygget stol, med sædehøjde 43-44cm.
 -   Det anbefales, at stolen placeres op mod en væg for at undgå, at den flytter sig.
 -   Et stopur, der tager tiden (30 sekunder). Evt. håndtælleapparat til at tælle antallet af oprejsninger
 
-## Forberedelse
+### Forberedelse
 
 -   Instruer deltageren i at sidde midt på stolen (i anterior-posterior retning) med strakt ryg, fødderne fladt på gulvet ved siden af hinanden og holde armene krydsede ved håndleddene mod brystet.
 -   Demonstrér først testen langsomt for at vise den korrekte teknik, og derefter i et højere tempo for at vise, at formålet er at gøre det så hurtigt, man kan, men hvor man samtidig skal føle sig sikker.
@@ -272,7 +268,7 @@ Formålet med rejse-sætte-sig-testen er at vurdere muskelstyrken og muskeludhol
 -   Før selve testen skal deltageren øve 1-2 oprejsninger for at sikre den korrekte teknik.
 -   Der gives ikke personstøtte.
 
-## Instruks til testpersonen (*i kursiv*)
+### Instruks til testpersonen (*i kursiv*)
 
 *Vi skal finde ud af, hvor stærk du er i dine ben, ved at se, hvor mange gange du kan rejse dig fra en stol og sætte dig på 30 sekunder. Jeg viser dig lige, hvordan testen skal udføres.*
 
@@ -290,40 +286,40 @@ Før selve testen skal deltageren øve 1-2 oprejsninger for at sikre den korrekt
 
 *Klar-parat-START!*
 
-## Tidtagning og tælling
+### Tidtagning og tælling
 
 -   Stopuret startes på kommandoen START, også selvom testpersonen venter lidt med at rejse sig.
 -   Hvis deltageren ikke kommer helt op at stå under testen, beder man deltageren om komme helt op at stå eller om at sætte tempoet ned, indtil hun/han kan udføre bevægelsen som foreskrevet. Tidtagningen stoppes ikke.
 -   Tiden stoppes efter 30 sekunder. I de 30 sekunder tælles antal oprejsninger. Hvis deltageren har rejst sig mere end halvvejs op ved 30 sekunder, tæller det for fuld oprejsning. Ved tvivl om sidste oprejsning, tælles denne **ikke** med.
 -   Testen gennemføres kun én gang på samme dag.
 
-# 6-minuttersgangtest (6MWT)
+## 6-minuttersgangtest (6MWT)
 
-## Formål
+### Formål
 
 6-minuttersgangtest vurderer både kredsløbsfunktion og gangudholdenhed. Formålet med testen er, at forsøgspersonen skal gå så langt som muligt på 6 minutter.
 
-## Teori
+### Teori
 
 Forsøg har vist, at der er en acceptabel sammenhæng mellem en lav score i 6MWT og risikoen for funktionsbegrænsninger og inaktivitetsrelaterede sygdomme <https://fysio.dk/maleredskaber>.
 
-## Kontraindikationer
+### Kontraindikationer
 
 -   Blodtryk over 180/110 (se manual for blodtryk)
 
-## Måleudstyr
+### Måleudstyr
 
 -   En testbane, der er 20 m eller 30 m lang (banen kan være fra 20 til 50 meter uden at det påvirker testens resultat)
 -   To kegler, et stopur, evt. et håndtælleapparat eller notesblok (til at tælle omgange), tape og en stol.
 
-## Forberedelse
+### Forberedelse
 
 -   Placer en kegle i hver ende af banen. Der bør minimum være en afstand på 1½ meter fra keglen til endevæggen, så testpersonen ubesværet kan gå rundt om keglerne.
 -   Lav evt. markeringer for hver 5 meter for at lette opmålingen.
 -   Testen kan gennemføres med ganghjælpemiddel, hvis nødvendigt (dette registreres).
 -   Hav en stol parat, hvis testpersonen er nødt til at sætte sig.
 
-## Instruks til testpersoner *(i kursiv)*
+### Instruks til testpersoner *(i kursiv)*
 
 Testpersonen står med skosnuderne lige bag startlinjen. Tester står ved siden af.
 
@@ -357,26 +353,26 @@ Når de 6 minutter er gået siges: *STOP!*
 
 Testpersonen skal blive stående, og der placeres et stykke tape foran skosnuden. Herefter kan testpersonen gå langsomt rundt og sætte sig efter behov
 
-## Tidtagning og tælling
+### Tidtagning og tælling
 
 Det måles, hvor langt testpersonen har gået fra sidste kegle og den samlede længe udregnes (antal omgange + restdistance) i **meter**.
 
-# Påsætning af bevægelsesmålere
+## Påsætning af aktivitetsmålere
 
-## Formål
+### Formål
 
 At sikre præcis måling af fysisk aktivitet.
 
-## Måleudstyr
+### Måleudstyr
 
 -   1 skt. Axivity AX3 aktivitetsmåler
 -   1 pose med 8 stk. Opsite flexfit og 4 stk. Mesoft kompresser 5x5 cm.
 -   Eventuelt engangsskaber
 -   Sprit
 
-## Procedure
+### Procedure
 
-### Åbn programmet OmGui.
+#### Åbn programmet OmGui.
 
 -   Bevægelsesmåler skal være opladt til over 85%.
 -   Forklar deltageren, hvad der skal ske.
@@ -390,7 +386,7 @@ At sikre præcis måling af fysisk aktivitet.
 -   I unpacked data sættes flueben – husk dette!!
 -   Klik ok.
 
-### Åben REDCap:
+#### Åben REDCap:
 
 -   Indtast accelerometer nummer ind i REDcap og udfyld punkterne om påsætning i REDcap.
 
@@ -422,6 +418,6 @@ At sikre præcis måling af fysisk aktivitet.
 
 -   Borgeren får udleveret en guide og et kit så de selv kan sætte accellerometret på, skulle det falde af.
 
-## Billede af aktivitetsmåling
+### Billede af aktivitetsmåling
 
-[![OBS! på billedet er den øverste film ikke taget af, for at gøre tapen tydeligt på billedet](acc.PNG)]https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/acc.PNG
+\[![OBS! på billedet er den øverste film ikke taget af, for at gøre tapen tydeligt på billedet](acc.PNG)\]https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/acc.PNG

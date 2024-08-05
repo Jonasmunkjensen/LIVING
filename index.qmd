@@ -1,10 +1,13 @@
 ---
+format: 
+  html: default
+  pdf: default
 execute: 
   echo: false
 ---
 
-::: {style="opacity: 0"} 
-# Cover Page {.unnumbered .unlisted} 
+::: {.content-hidden when-format="html"}
+# Forside {.unnumbered .unlisted}
 :::
 
 ```{r}

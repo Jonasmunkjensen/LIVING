@@ -1,4 +1,4 @@
-## Procedure for afklarende samtale
+# Procedure for afklarende samtale {#sec-afklarende-samtale}
 
 1.  REDcap kan med fordel åbnes på forhånd. Desuden kan borgeren oprettes og data fra henvisningen registreres på forhånd. Hvis borger ikke er egnet eller afviser at deltage, kan brugeren slettes igen.
 
@@ -25,9 +25,9 @@
 
 :::{.callout-tip}
 Hvis borger forholder sig kritisk i forhold til ventelisten, er der en mere nuanceret beskrivelse nedenfor**
+:::
 
 **Hvorfor får ikke alle borgere et tilbud med det samme?** *Når vi forsker i kommunale sundhedstilbud, er det vigtigt at finde ud af, om de virkelig virker. For at gøre det, bruger vi et ventelistedesign. Det betyder, at nogle borgere får tilbuddet med det samme, mens andre må vente lidt. Dette er nødvendigt for at kunne sammenligne og sikre, at eventuelle forbedringer skyldes selve tilbuddet og ikke andre faktorer.*
-:::
 
 *Evalueringer uden en kontrolgruppe – hvor alle får tilbuddet med det samme – kan nemlig være misvisende. Vi kan ikke være sikre på, at eventuelle forbedringer faktisk skyldes tilbuddet. Derfor bliver den slags forskning ofte kritiseret for at være upålidelig. Mange læger er derfor forsigtige med at anbefale kommunale sundhedstilbud, hvis dokumentationen ikke er solid nok.*
 
@@ -45,9 +45,9 @@ Hvis borger forholder sig kritisk i forhold til ventelisten, er der en mere nuan
 
 5.  Hvis borger ønsker at deltage underskrives en samtykkeerklæring. Borger har ret til ti dages betænkningstid.
 
-6.  Borger oprettes i REDCap (se manual for REDCap)
+6.  Borger oprettes i REDCap (@sec-redcap)
 
-7.  Punkter "1 besøg" udfyldes i REDCap og der foretages randomisering
+7.  Punkterne `Afklarende samtale og 1. måling` udfyldes i REDCap og der foretages randomisering
 
 8.  Uanset om borger kommer i interventions- eller kontrolgruppe skal der foretages målinger.
 

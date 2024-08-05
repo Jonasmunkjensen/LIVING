@@ -1,4 +1,4 @@
-# Vejledning i brug af REDCap
+# Vejledning i brug af REDCap {#sec-redcap}
 
 ## Hvad er REDCap?
 

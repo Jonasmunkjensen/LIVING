@@ -1,57 +1,68 @@
-# Optisk kontrol
+# HbA1c apparat {#sec-hba1c-apparat}
 
-- Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.
+## Optisk kontrol {#sec-optisk-kontrol}
 
-- Optisk kontrol tager et øjeblik, og bør måles hver dag instrumentet skal anvendes til tests.
+-   Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.
+
+-   Optisk kontrol tager et øjeblik, og bør måles hver dag instrumentet skal anvendes til tests.
 
 [![](ok1.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/ok1.PNG)
 
-## Opbevaring
+### Opbevaring
 
-- Den optiske test disc må **IKKE** komme på køl men skal opbevares ved stuetemperatur.
+-   Den optiske test disc må **IKKE** komme på køl men skal opbevares ved stuetemperatur.
 
-## Udfør optisk kontrol
+### Udfør optisk kontrol
 
-1. Vælg `Kontroltest --> Optisk test`
+1.  Vælg `Kontroltest --> Optisk test`
 
-2. Vælg `Åbn`. Åbn låget, indsæt optisk test disc og luk låget
+2.  Vælg `Åbn`. Åbn låget, indsæt optisk test disc og luk låget
 
-3. Vælg `flueben`. Efter få sekunder er testen færdig
+3.  Vælg `flueben`. Efter få sekunder er testen færdig
 
-4. Vælg `flueben`. 
+4.  Vælg `flueben`.
 
-5. Vælg `Åbn`. Åbn låget, fjern optisk test disc og gem den i etuiet
+5.  Vælg `Åbn`. Åbn låget, fjern optisk test disc og gem den i etuiet
 
-6. Luk låget. `Hovedskærmen` vises og apparatet er klar til at foretage hba1c målinger
+6.  Luk låget. `Hovedskærmen` vises og apparatet er klar til at foretage hba1c målinger
 
+## Kvalitetskontrol af HbA1c kassetter {#sec-kvalitetskontrol}
 
-# Kvalitetskontrol af HbA1c kassetter
-
-Der foretages kvalitetskontrol hver tredje måned. 
-
-## Opbevaring
+### Opbevaring
 
 -   HbA1c kontrollerne skal opbevares på køl ved en temperatur mellem 2°C og 8°C.
 
 -   I bliver orienteret når der leveres en ny pakke, så vi undgår at pakken ligger udenfor køl.
 
-## Pakkespecifikationer
+### Pakkespecifikationer
 
 -   Kontrollerne kommer i to niveauer (*niveau 1* og *niveau 2*).
 
 -   Hver pakke indeholder to sæt kontroller: 2 x *niveau 1* og 2 x *niveau 2*.
 
-## Holdbarhed
+### Hyppighed for kvalitetskontroller
 
 -   Efter åbning kan et sæt kontroller opbevares på køl og anvendes i op til 30 dage
 
 -   Uåbnede sæt kan opbevares indtil udløbsdatoen, som er angivet på pakken. Udløbsdatoen er normalt omkring et år.
 
+-   Der foretages kontrol 1 gang om måneden i følgende rul: 
+
+**1**: Første sæt kontroller (niveau 1+2) anbrydes og analyseres. Dette sæt kan nu holde sig i 30 dage på køl.
+
+**2**: En måned senere (ca. 30 dage) bruges det første sæt (niveau 1+2) til ny kvalitetskontrol, hvorefter sættes kasseres.
+
+**3**: En måned senere tages andet sæt kontroller i brug, som så igen kan holde sig i 30 dage på køl.
+
+**4**: En måned senere (ca. 30 dage) bruges det andet sæt (niveau 1+2) til ny analysering, hvorefter sættes kasseres.
+
+- Herefter er der brug for en ny pakke kontroller, som vil kunne dække de næste 4 måneders forbrug
+
 ::: callout-warning
 Inden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhed. Apparatet skal indstilles til at angive HbA1C som IFCC. Vælg `indstillinger` --\> `QC-måling` --\> `enheder` --\> `IFCC`
 :::
 
-## Udfør kvalitetskontrol
+### Udfør kvalitetskontrol
 
 1.  Nødvendige materialer
 
@@ -153,10 +164,10 @@ Inden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhe
 
 [![](qc23.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/qc23.PNG)
 
-# Rengøring
+## Rengøring af HbA1c apparat {#sec-rengøring}
 
 Der er ingen standarter for hvor ofte apparatet skal rengøres. Fabrikanten anbefaler faktisk kun rengøring og desinficering, hvis der ses synligt støv eller snavs, eller hvis der er et spild. Fx hvis en kassette ikke har været lukket korrekt inden det sættes i instrumentet, og prøvematerialet slynges ud af kassetten under centrifugering - dette medfører dog også en fejlmeddelelse, og analysen stopper, hvorefter der skal rengøres indvendigt.
 
-Til rengøring indvendig benyttes wetwipes som indeholder 70% ethanol. 
+Til rengøring indvendig benyttes wetwipes som indeholder 70% ethanol.
 
 Til udvendig rengøring benyttes tørre, bløde og fnugfri klude.

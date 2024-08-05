@@ -16,6 +16,9 @@ book:
     - 3-REDCap.qmd
     - 4-opsætning-af-aktivitetsmåler.qmd
     - 5-HbA1c-apparat.qmd
+  appendices:
+    - 6-Samtykkeerklæring.qmd
+    - 7-udstyrsliste.qmd
 cookie-consent:
   type: express
   palette: light
