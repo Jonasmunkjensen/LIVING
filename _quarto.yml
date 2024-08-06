@@ -7,6 +7,8 @@ book:
   author: "Jonas Munk Jensen"
   date: 2024 07 31
   date-format: "YYYY"
+  site-url: https://github.com/Jonasmunkjensen/LIVING
+  repo-url: https://github.com/Jonasmunkjensen/LIVING
   chapters:
     - index.qmd
     - 0-introduktion.qmd
