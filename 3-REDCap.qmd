@@ -18,7 +18,7 @@ Når du er logget ind vælger du fanen `My Projects` i topmenuen, scroller ned i
 
 Du finder alt du skal bruge i menuen til venstre. Menuen er sammensat så den kun indeholder funktioner som du skal bruge.
 
-![](redc4.PNG)
+![](pics/redc4.PNG)
 
 ## Oprettelse og indtastning af deltager i REDCap
 
