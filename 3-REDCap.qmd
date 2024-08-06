@@ -10,33 +10,33 @@ Når man er tilføjet som REDCap-bruger og tildelt rettigheder i LIVING database
 
 Scroll ned i bunden af siden og login med de brugeroplysninger du har modtaget på mail
 
-[![](redc2.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc2.PNG)
+![](pics/redc2.PNG)
 
 Når du er logget ind vælger du fanen `My Projects` i topmenuen, scroller ned i bunden af siden og vælger `LIVING`i **My Projects**
 
-[![](redc3.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc3.PNG)
+![](pics/redc3.PNG)
 
 Du finder alt du skal bruge i menuen til venstre. Menuen er sammensat så den kun indeholder funktioner som du skal bruge.
 
-[![](redc4.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc4.PNG)
+![](redc4.PNG)
 
 ## Oprettelse og indtastning af deltager i REDCap
 
-[![](redc5.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc5.PNG)
+![](pics/redc5.PNG)
 
 Opret en ny borger ved at trykke på `+Add ned record`. Dette kan gøres inden den afklarende samtale
 
-[![](redc6.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc6.PNG)
+![](pics/redc6.PNG)
 
 Tryk på cirklen for `1. besøg`
 
-[![](redc7.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc7.PNG)
+![](pics/redc7.PNG)
 
 ## Indtastning
 
 Du kan indtaste data på borgeren inden den afklarende samtale Du kan altid gemme og vende tilbage til indtastningen ved at trykke `Save & Exit Form`
 
-[![](redc8.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc8.PNG)
+![](pics/redc8.PNG)
 
 ::: callout-warning
 Se bort fra feltet `Uploadfelt til samtykke`. Gem det skriftlige samtykke i en mappe
@@ -44,23 +44,23 @@ Se bort fra feltet `Uploadfelt til samtykke`. Gem det skriftlige samtykke i en m
 **!** Randomisering SKAL først ske, når skriftligt samtykke er indhentet
 :::
 
-[![](redc14.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc14.PNG)
+![](pics/redc14.PNG)
 
 Informer borgeren om hvilken gruppe de er kommet i. I dette tilfælde **intervention**
 
-[![](redc9.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc9.PNG)
+![](pics/redc9.PNG)
 
 ## Send spørgeskema til borger
 
 Marker hele linket `Unikt link til Questionnaire` ved at trykke `(Ctrl + a)`, kopier det `(Ctrl + c)` og send link til borger til e-boks via fx dok2 mail
 
-[![](redc15.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc15.PNG)
+![](pics/redc15.PNG)
 
 ## Søg en borger frem
 
 I `Search query`kan du søge en borger frem vha. CPR eller navn
 
-[![](redc10.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc10.PNG)
+![](pics/redc10.PNG)
 
 ## Vælg indtastningsark
 
@@ -68,13 +68,13 @@ I `Search query`kan du søge en borger frem vha. CPR eller navn
 Når du søger en borger frem åbner den altid i 1. besøg. Tryk på `Record ID` for at få overblik over alle besøg
 :::
 
-[![](redc11.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc11.PNG)
+![](pics/redc11.PNG)
 
 ## Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data
 
 `Farverne` indikerer status for ark. Status ændres i bunden af hvert ark
 
-[![](redc12.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc12.PNG)
+![](pics/redc12.PNG)
 
 ## Afslutte registrering på besøg
 
@@ -82,4 +82,4 @@ I bunden af hvert ark kan vælges status og `Save & Exit Form` eller `Save & Go 
 
 Når al data er udfyldt ændres `Form Status` fra **Incomplete** til **Complete** i dropdown menuen
 
-[![](redc13.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc13.PNG)
+![](pics/redc13.PNG)

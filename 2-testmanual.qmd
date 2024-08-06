@@ -153,7 +153,7 @@ Er hofteomfang større end målebånd noteres dette i bemærkningsfeltet i REDca
 
 ### Billede af hoftemål
 
-[![](hofte.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/hofte.PNG)
+![](pics/hofte.PNG)
 
 ## Taljemål
 
@@ -196,7 +196,7 @@ Er taljemålet større end målebånd noteres dette i bemærkningsfeltet i REDca
 
 ### Billede af taljemål
 
-[![](talje.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/talje.PNG)
+![](pics/talje.PNG)
 
 ## Bioempedans
 
@@ -268,7 +268,9 @@ Formålet med rejse-sætte-sig-testen er at vurdere muskelstyrken og muskeludhol
 -   Før selve testen skal deltageren øve 1-2 oprejsninger for at sikre den korrekte teknik.
 -   Der gives ikke personstøtte.
 
-### Instruks til testpersonen (*i kursiv*)
+### Instruks til testpersonen 
+
+Instruks er beskrevet *i kursiv*
 
 *Vi skal finde ud af, hvor stærk du er i dine ben, ved at se, hvor mange gange du kan rejse dig fra en stol og sætte dig på 30 sekunder. Jeg viser dig lige, hvordan testen skal udføres.*
 
@@ -420,4 +422,4 @@ At sikre præcis måling af fysisk aktivitet.
 
 ### Billede af aktivitetsmåling
 
-\[![OBS! på billedet er den øverste film ikke taget af, for at gøre tapen tydeligt på billedet](acc.PNG)\]https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/acc.PNG
+![OBS! på billedet er den øverste film ikke taget af, for at gøre tapen tydeligt på billedet](/pics/acc.PNG)

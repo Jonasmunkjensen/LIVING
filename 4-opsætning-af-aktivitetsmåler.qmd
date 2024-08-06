@@ -24,7 +24,7 @@ Accelerometrene indstilles til én person ad gangen.
 
 -   Tryk ”Record” for at opsætte accelerometeret (du får følgende vindue frem)
 
-[![](omgui.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/omgui.PNG)
+![](pics/omgui.PNG)
 
 -   Indtast borgerens RedCap/Record ID i Recording sessions
 
@@ -44,7 +44,7 @@ Accelerometrene indstilles til én person ad gangen.
 
 -   Find borgeren i REDCap og klik på det besøg der er tale om
 
-[![](redc1.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/redc1.PNG)
+![](pics/redc1.PNG)
 
 -   Scroll ned til punkterne omkring accelerometer. Her indtastes Accelerometer ID nummer, det nummer der står printet på accelerometeret `fx 18 – 79290`
 
@@ -52,7 +52,7 @@ Accelerometrene indstilles til én person ad gangen.
 
 -   Hvis dataindsmalingen er færdig ændres `Form Status` fra *Incomplete* til *Complete*. Hvis der mangler at udføres målinger trykkes `Save & Exit Form`.
 
-[![](acc1.png)](https://github.com/Jonasmunkjensen/LIVING/blob/main/pics/acc1.PNG)
+![](pics/acc1.PNG)
 
 -   Udlever kuvert til borger med tape og guide til påsætning, skulle accelerometeret falde af i løbet af de 7 dage.
 
