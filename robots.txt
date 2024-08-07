@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Jonasmunkjensen/LIVING/sitemap.xml
+Sitemap: https://jonasmunkjensen.github.io/LIVING/sitemap.xml

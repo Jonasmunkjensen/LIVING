@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>3&nbsp; Vejledning i brug af REDCap – LIVING forskningsprojekt</title>
+<title>redcap – LIVING forskningsprojekt</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,7 +24,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -37,10 +36,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -72,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar docked">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -81,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./3-REDCap.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Vejledning i brug af REDCap</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./3-REDCap.html">REDCap</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -93,14 +94,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">LIVING forskningsprojekt</a> 
-        <div class="sidebar-tools-main">
-    <a href="https://github.com/Jonasmunkjensen/LIVING" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./logo.PNG" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main">
+    <a href="https://github.com/Jonasmunkjensen/LIVING" title="LIVING" class="quarto-navigation-tool px-1" aria-label="LIVING"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-    </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -124,55 +126,50 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./1-afklarende-samtale.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Procedure for afklarende samtale</span></span></a>
+ <span class="menu-text">Afklarende samtale</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2-testmanual.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Testmanual</span></span></a>
+ <span class="menu-text">Testmanual</span></a>
   </div>
 </li>
         <li class="sidebar-item">
+ <span class="menu-text">Testmanual</span>
+  </li>
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3-REDCap.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Vejledning i brug af REDCap</span></span></a>
+ <span class="menu-text">REDCap</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4-opsætning-af-aktivitetsmåler.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Opsætning af aktivitetsmåler</span></span></a>
+ <span class="menu-text">Klargøring af aktivitetsmålere</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5-HbA1c-apparat.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">HbA1c apparat</span></span></a>
+ <span class="menu-text">Procedurer for HbA1c apparat</span></a>
   </div>
 </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Appendices</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./6-Samtykkeerklæring.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Samtykkeerklæring</span></span></a>
+ <span class="menu-text">Samtykkeerklæringer til print</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./7-udstyrsliste.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Udstyrsliste</span></span></a>
+ <span class="menu-text">Udstyrsliste</span></a>
   </div>
 </li>
-      </ul>
+        <li class="sidebar-item">
+ <span class="menu-text">Udstyrsliste</span>
   </li>
     </ul>
     </div>
@@ -181,49 +178,38 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#hvad-er-redcap" id="toc-hvad-er-redcap" class="nav-link active" data-scroll-target="#hvad-er-redcap"><span class="header-section-number">3.1</span> Hvad er REDCap?</a></li>
-  <li><a href="#opstart-af-redcap" id="toc-opstart-af-redcap" class="nav-link" data-scroll-target="#opstart-af-redcap"><span class="header-section-number">3.2</span> Opstart af REDCap</a></li>
-  <li><a href="#oprettelse-og-indtastning-af-deltager-i-redcap" id="toc-oprettelse-og-indtastning-af-deltager-i-redcap" class="nav-link" data-scroll-target="#oprettelse-og-indtastning-af-deltager-i-redcap"><span class="header-section-number">3.3</span> Oprettelse og indtastning af deltager i REDCap</a></li>
-  <li><a href="#indtastning" id="toc-indtastning" class="nav-link" data-scroll-target="#indtastning"><span class="header-section-number">3.4</span> Indtastning</a></li>
-  <li><a href="#send-spørgeskema-til-borger" id="toc-send-spørgeskema-til-borger" class="nav-link" data-scroll-target="#send-spørgeskema-til-borger"><span class="header-section-number">3.5</span> Send spørgeskema til borger</a></li>
-  <li><a href="#søg-en-borger-frem" id="toc-søg-en-borger-frem" class="nav-link" data-scroll-target="#søg-en-borger-frem"><span class="header-section-number">3.6</span> Søg en borger frem</a></li>
-  <li><a href="#vælg-indtastningsark" id="toc-vælg-indtastningsark" class="nav-link" data-scroll-target="#vælg-indtastningsark"><span class="header-section-number">3.7</span> Vælg indtastningsark</a></li>
-  <li><a href="#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data" id="toc-vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data" class="nav-link" data-scroll-target="#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data"><span class="header-section-number">3.8</span> Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data</a></li>
-  <li><a href="#afslutte-registrering-på-besøg" id="toc-afslutte-registrering-på-besøg" class="nav-link" data-scroll-target="#afslutte-registrering-på-besøg"><span class="header-section-number">3.9</span> Afslutte registrering på besøg</a></li>
+  <li><a href="#sec-redcap" id="toc-sec-redcap" class="nav-link active" data-scroll-target="#sec-redcap">Vejledning i brug af REDCap</a>
+  <ul class="collapse">
+  <li><a href="#hvad-er-redcap" id="toc-hvad-er-redcap" class="nav-link" data-scroll-target="#hvad-er-redcap">Hvad er REDCap?</a></li>
+  <li><a href="#opstart-af-redcap" id="toc-opstart-af-redcap" class="nav-link" data-scroll-target="#opstart-af-redcap">Opstart af REDCap</a></li>
+  <li><a href="#oprettelse-og-indtastning-af-deltager-i-redcap" id="toc-oprettelse-og-indtastning-af-deltager-i-redcap" class="nav-link" data-scroll-target="#oprettelse-og-indtastning-af-deltager-i-redcap">Oprettelse og indtastning af deltager i REDCap</a></li>
+  <li><a href="#indtastning" id="toc-indtastning" class="nav-link" data-scroll-target="#indtastning">Indtastning</a></li>
+  <li><a href="#send-spørgeskema-til-borger" id="toc-send-spørgeskema-til-borger" class="nav-link" data-scroll-target="#send-spørgeskema-til-borger">Send spørgeskema til borger</a></li>
+  <li><a href="#søg-en-borger-frem" id="toc-søg-en-borger-frem" class="nav-link" data-scroll-target="#søg-en-borger-frem">Søg en borger frem</a></li>
+  <li><a href="#vælg-indtastningsark" id="toc-vælg-indtastningsark" class="nav-link" data-scroll-target="#vælg-indtastningsark">Vælg indtastningsark</a></li>
+  <li><a href="#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data" id="toc-vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data" class="nav-link" data-scroll-target="#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data">Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data</a></li>
+  <li><a href="#afslutte-registrering-på-besøg" id="toc-afslutte-registrering-på-besøg" class="nav-link" data-scroll-target="#afslutte-registrering-på-besøg">Afslutte registrering på besøg</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title"><span id="sec-redcap" class="quarto-section-identifier"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Vejledning i brug af REDCap</span></span></h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="hvad-er-redcap" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="hvad-er-redcap"><span class="header-section-number">3.1</span> Hvad er REDCap?</h2>
+<section id="sec-redcap" class="level1">
+<h1>Vejledning i brug af REDCap</h1>
+<section id="hvad-er-redcap" class="level2">
+<h2 class="anchored" data-anchor-id="hvad-er-redcap">Hvad er REDCap?</h2>
 <p>REDCap (Electronic Data Capture system) er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC.</p>
 </section>
-<section id="opstart-af-redcap" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="opstart-af-redcap"><span class="header-section-number">3.2</span> Opstart af REDCap</h2>
+<section id="opstart-af-redcap" class="level2">
+<h2 class="anchored" data-anchor-id="opstart-af-redcap">Opstart af REDCap</h2>
 <p>Når man er tilføjet som REDCap-bruger og tildelt rettigheder i LIVING databasen kan databasen åbnes via dette link: <a href="https://redcap.au.dk/" class="uri">https://redcap.au.dk/</a></p>
 <p>Scroll ned i bunden af siden og login med de brugeroplysninger du har modtaget på mail</p>
 <p><img src="pics/redc2.PNG" class="img-fluid"></p>
@@ -232,16 +218,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Du finder alt du skal bruge i menuen til venstre. Menuen er sammensat så den kun indeholder funktioner som du skal bruge.</p>
 <p><img src="pics/redc4.PNG" class="img-fluid"></p>
 </section>
-<section id="oprettelse-og-indtastning-af-deltager-i-redcap" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="oprettelse-og-indtastning-af-deltager-i-redcap"><span class="header-section-number">3.3</span> Oprettelse og indtastning af deltager i REDCap</h2>
+<section id="oprettelse-og-indtastning-af-deltager-i-redcap" class="level2">
+<h2 class="anchored" data-anchor-id="oprettelse-og-indtastning-af-deltager-i-redcap">Oprettelse og indtastning af deltager i REDCap</h2>
 <p><img src="pics/redc5.PNG" class="img-fluid"></p>
 <p>Opret en ny borger ved at trykke på <code>+Add ned record</code>. Dette kan gøres inden den afklarende samtale</p>
 <p><img src="pics/redc6.PNG" class="img-fluid"></p>
 <p>Tryk på cirklen for <code>1. besøg</code></p>
 <p><img src="pics/redc7.PNG" class="img-fluid"></p>
 </section>
-<section id="indtastning" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="indtastning"><span class="header-section-number">3.4</span> Indtastning</h2>
+<section id="indtastning" class="level2">
+<h2 class="anchored" data-anchor-id="indtastning">Indtastning</h2>
 <p>Du kan indtaste data på borgeren inden den afklarende samtale Du kan altid gemme og vende tilbage til indtastningen ved at trykke <code>Save &amp; Exit Form</code></p>
 <p><img src="pics/redc8.PNG" class="img-fluid"></p>
 <div class="callout callout-style-default callout-warning callout-titled">
@@ -262,18 +248,18 @@ Warning
 <p>Informer borgeren om hvilken gruppe de er kommet i. I dette tilfælde <strong>intervention</strong></p>
 <p><img src="pics/redc9.PNG" class="img-fluid"></p>
 </section>
-<section id="send-spørgeskema-til-borger" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="send-spørgeskema-til-borger"><span class="header-section-number">3.5</span> Send spørgeskema til borger</h2>
+<section id="send-spørgeskema-til-borger" class="level2">
+<h2 class="anchored" data-anchor-id="send-spørgeskema-til-borger">Send spørgeskema til borger</h2>
 <p>Marker hele linket <code>Unikt link til Questionnaire</code> ved at trykke <code>(Ctrl + a)</code>, kopier det <code>(Ctrl + c)</code> og send link til borger til e-boks via fx dok2 mail</p>
 <p><img src="pics/redc15.PNG" class="img-fluid"></p>
 </section>
-<section id="søg-en-borger-frem" class="level2" data-number="3.6">
-<h2 data-number="3.6" class="anchored" data-anchor-id="søg-en-borger-frem"><span class="header-section-number">3.6</span> Søg en borger frem</h2>
+<section id="søg-en-borger-frem" class="level2">
+<h2 class="anchored" data-anchor-id="søg-en-borger-frem">Søg en borger frem</h2>
 <p>I <code>Search query</code>kan du søge en borger frem vha. CPR eller navn</p>
 <p><img src="pics/redc10.PNG" class="img-fluid"></p>
 </section>
-<section id="vælg-indtastningsark" class="level2" data-number="3.7">
-<h2 data-number="3.7" class="anchored" data-anchor-id="vælg-indtastningsark"><span class="header-section-number">3.7</span> Vælg indtastningsark</h2>
+<section id="vælg-indtastningsark" class="level2">
+<h2 class="anchored" data-anchor-id="vælg-indtastningsark">Vælg indtastningsark</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -289,18 +275,19 @@ Warning
 </div>
 <p><img src="pics/redc11.PNG" class="img-fluid"></p>
 </section>
-<section id="vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data" class="level2" data-number="3.8">
-<h2 data-number="3.8" class="anchored" data-anchor-id="vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data"><span class="header-section-number">3.8</span> Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data</h2>
+<section id="vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data" class="level2">
+<h2 class="anchored" data-anchor-id="vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data">Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data</h2>
 <p><code>Farverne</code> indikerer status for ark. Status ændres i bunden af hvert ark</p>
 <p><img src="pics/redc12.PNG" class="img-fluid"></p>
 </section>
-<section id="afslutte-registrering-på-besøg" class="level2" data-number="3.9">
-<h2 data-number="3.9" class="anchored" data-anchor-id="afslutte-registrering-på-besøg"><span class="header-section-number">3.9</span> Afslutte registrering på besøg</h2>
+<section id="afslutte-registrering-på-besøg" class="level2">
+<h2 class="anchored" data-anchor-id="afslutte-registrering-på-besøg">Afslutte registrering på besøg</h2>
 <p>I bunden af hvert ark kan vælges status og <code>Save &amp; Exit Form</code> eller <code>Save &amp; Go To Next Form</code> (dropdown menu)</p>
 <p>Når al data er udfyldt ændres <code>Form Status</code> fra <strong>Incomplete</strong> til <strong>Complete</strong> i dropdown menuen</p>
 <p><img src="pics/redc13.PNG" class="img-fluid"></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -324,6 +311,150 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -396,7 +527,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/github\.com\/Jonasmunkjensen\/LIVING");
+      var filterRegex = new RegExp("https:\/\/jonasmunkjensen\.github\.io\/LIVING\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -727,16 +858,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./2-testmanual.html" class="pagination-link" aria-label="Testmanual">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Testmanual</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Testmanual</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./4-opsætning-af-aktivitetsmåler.html" class="pagination-link" aria-label="Opsætning af aktivitetsmåler">
-        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Opsætning af aktivitetsmåler</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./4-opsætning-af-aktivitetsmåler.html" class="pagination-link" aria-label="Klargøring af aktivitetsmålere">
+        <span class="nav-page-text">Klargøring af aktivitetsmålere</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Denne hjemmeside er lavet i <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
 
 
 
