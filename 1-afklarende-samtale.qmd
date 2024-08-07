@@ -24,7 +24,7 @@
 *Desuden vil du deltage på et træningshold. Træningen bliver tilrettelagt så alle kan være med, men være bygget op omkring intervaltræning, som består af blokke af 5 x 1 minuts træning med 1 minuts pause imellem. Det betyder at man træner hårdt når man træner – men til gengæld får man mange pauser. I de første to uger træner man to blokke – svarende til omkring en halv time - to gange om ugen. De næste to uger træner man tre blokke – ca. 40 min. - to gange om ugen og i de sidste fire uger træner man fire blokke – ca. 50 min - to gange om ugen.*
 
 :::{.callout-tip}
-Hvis borger forholder sig kritisk i forhold til ventelisten, er der en mere nuanceret beskrivelse nedenfor**
+Hvis borger forholder sig kritisk i forhold til ventelisten, er der en mere nuanceret beskrivelse nedenfor
 :::
 
 **Hvorfor får ikke alle borgere et tilbud med det samme?** *Når vi forsker i kommunale sundhedstilbud, er det vigtigt at finde ud af, om de virkelig virker. For at gøre det, bruger vi et ventelistedesign. Det betyder, at nogle borgere får tilbuddet med det samme, mens andre må vente lidt. Dette er nødvendigt for at kunne sammenligne og sikre, at eventuelle forbedringer skyldes selve tilbuddet og ikke andre faktorer.*

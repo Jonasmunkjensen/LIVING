@@ -17,11 +17,12 @@ execute:
 #| echo: false
 #| fig-alt: Steno Diabetes Center Aarhus, Aarhus Universitetshospital
 
-knitr::include_graphics("figures/rmlogo.png")
+knitr::include_graphics("rmlogo.png")
 ```
 
 ::: {style="text-align: center"}
 **Testmanualer og informationer**\
+**Jonas Munk Jensen**\
 **Steno Diabetes Center Aarhus**\
 **Aarhus Universitetshospital**
 :::

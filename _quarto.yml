@@ -7,17 +7,12 @@ website:
   site-url: "https://jonasmunkjensen.github.io/LIVING/"
   repo-url: "https://jonasmunkjensen.github.io/LIVING/"
 
-  author: "Jonas Munk Jensen"
-  date: 2024 07 31
-  date-format: "YYYY"
-
   page-footer:
     right: "Denne hjemmeside er lavet i [Quarto](https://quarto.org/)."
 
   sidebar:
-    background:light
-    logo: figures/rmlogo.PNG
-    favicon: images/favicon.ico
+    background: "#D9E3E4"
+    logo: logo.PNG
     pinned: true
     align: center
     tools:
@@ -33,8 +28,10 @@ website:
         text: Forside
       - href: 0-introduktion.qmd
         text: Introduktion
-      - href: afklarende-samtale.qmd
-        text: 2-testmanual.qmd
+      - href: 1-afklarende-samtale.qmd
+        text: Afklarende samtale
+      - href: 2-testmanual.qmd
+      - text: Testmanual
       - href: 3-REDCap.qmd
         text: REDCap
       - href: 4-opsætning-af-aktivitetsmåler.qmd
@@ -44,7 +41,7 @@ website:
       - href: 6-Samtykkeerklæring.qmd
         text: Samtykkeerklæringer til print
       - href: 7-udstyrsliste.qmd
-      - text: 7-udstyrsliste.qmd
+      - text: Udstyrsliste
 
 format:
   html:
@@ -54,9 +51,3 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-
-filters:
-  - include-files.lua
-  - quarto
-
-

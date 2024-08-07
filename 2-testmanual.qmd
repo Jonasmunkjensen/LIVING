@@ -84,7 +84,7 @@ Ved bestemmelse af Hæmoglobin A1c fås et mål for en persons gennemsnitlige ko
 
 -   Hvis I vælger at benytte handsker, benyt **kun** pudderfri handsker.
 -   Berøring af kassetten: Anvendes pudderfri handsker, må alle flader på kassetten berøres. Anvendes der **ikke pudderfri handsker**, må sugepunktet og de gennemsigtige flader på kassetten IKKE berøres.
--   Optisk kontrol: En måling på den medfølgende optiske kontrolkassette bør udføres hver dag der testes borgere (@sec-optisk-kontrol).
+-   Optisk kontrol: En måling på den medfølgende optiske kontrolkassette bør udføres hver dag der testes borgere (se procedurer for HbA1c-apparat).
 -   Sørg for at apparatet er tændt og klart.
 -   Bed borgeren om at vaske sine fingre grundigt.
 -   Sørg for at borgeren sidder med armen i nedadgående retning – kør evt. skrivebordet ned. Det kan være effektivt at lade borgeren svinge armen rundt et par gange, eller massere blodet mod fingeren.
