@@ -15,9 +15,8 @@ website:
     right: "Denne hjemmeside er lavet i [Quarto](https://quarto.org/)."
 
   sidebar:
-    background:light
+    background: "#D9E3E4"
     logo: figures/rmlogo.PNG
-    favicon: images/favicon.ico
     pinned: true
     align: center
     tools:
