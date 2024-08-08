@@ -10,18 +10,13 @@ execute:
 # Forside {.unnumbered .unlisted}
 :::
 
-```{r}
-#| label: rm-cover-fig
-#| fig-align: center
-#| out-width: 40%
-#| echo: false
-#| fig-alt: Steno Diabetes Center Aarhus, Aarhus Universitetshospital
-
-knitr::include_graphics("figures/rmlogo.png")
-```
+::: {style="align: center"}
+![](rmlogo.PNG)
+:::
 
 ::: {style="text-align: center"}
 **Testmanualer og informationer**\
+**Jonas Munk Jensen**\
 **Steno Diabetes Center Aarhus**\
 **Aarhus Universitetshospital**
 :::
