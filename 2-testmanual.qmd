@@ -1,4 +1,4 @@
-# Testmanual {#sec-testmanual}
+# Testmanual
 
 ## Blodtryk
 
