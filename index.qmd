@@ -10,9 +10,7 @@ execute:
 # Forside {.unnumbered .unlisted}
 :::
 
-::: {style="align: center"}
-![](rmlogo.PNG)
-:::
+![](rmlogo.PNG){fig-align="center"}
 
 ::: {style="text-align: center"}
 **Testmanualer og informationer**\
