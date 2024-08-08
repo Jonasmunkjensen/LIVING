@@ -1,3 +1,6 @@
+---
+title: Testmanual
+---
 
 ## Blodtryk
 
@@ -320,7 +323,9 @@ Forsøg har vist, at der er en acceptabel sammenhæng mellem en lav score i 6MWT
 -   Testen kan gennemføres med ganghjælpemiddel, hvis nødvendigt (dette registreres).
 -   Hav en stol parat, hvis testpersonen er nødt til at sætte sig.
 
-### Instruks til testpersoner *(i kursiv)*
+### Instruks til testpersoner 
+
+Instruksen som gives til borgeren er skrevet *(i kursiv)*
 
 Testpersonen står med skosnuderne lige bag startlinjen. Tester står ved siden af.
 

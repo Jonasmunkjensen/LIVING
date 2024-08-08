@@ -1,4 +1,6 @@
-# Opsætning af aktivitetsmåler {#sec-opsætning-af-aktivitetsmåler}
+---
+title: Opsætning af aktivitetsmåler
+---
 
 ## Download OmGui
 

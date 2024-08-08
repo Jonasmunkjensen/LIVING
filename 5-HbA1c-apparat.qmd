@@ -1,6 +1,8 @@
-# HbA1c apparat {#sec-hba1c-apparat}
+---
+title: HbA1c apparat
+---
 
-## Optisk kontrol {#sec-optisk-kontrol}
+## Optisk kontrol
 
 -   Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.
 
@@ -26,7 +28,7 @@
 
 6.  Luk låget. `Hovedskærmen` vises og apparatet er klar til at foretage hba1c målinger
 
-## Kvalitetskontrol af HbA1c kassetter {#sec-kvalitetskontrol}
+## Kvalitetskontrol af HbA1c kassetter 
 
 ### Opbevaring
 
@@ -164,7 +166,7 @@ Inden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhe
 
 ![](pics/qc23.PNG)
 
-## Rengøring af HbA1c apparat {#sec-rengøring}
+## Rengøring af HbA1c apparat 
 
 Der er ingen standarter for hvor ofte apparatet skal rengøres. Fabrikanten anbefaler faktisk kun rengøring og desinficering, hvis der ses synligt støv eller snavs, eller hvis der er et spild. Fx hvis en kassette ikke har været lukket korrekt inden det sættes i instrumentet, og prøvematerialet slynges ud af kassetten under centrifugering - dette medfører dog også en fejlmeddelelse, og analysen stopper, hvorefter der skal rengøres indvendigt.
 

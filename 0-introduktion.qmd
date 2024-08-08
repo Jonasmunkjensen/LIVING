@@ -1,4 +1,6 @@
-# Introduktion {#sec-introduktion .unnumbered}
+---
+title: Introduktion
+---
 
 Denne hjemmeside har til formål at klæde personale på som indsamler data i LIVING forskningsprojektet. Nogle procedure kan opdateres undervejs, hvis vi løbende kommer på bedre metoder. Alle ændringer vil ske på denne hjemmeside, hvorfor det er vigtigt at man orienterer sig på denne hjemmeside inden der skal foretages dataindsamling.
 

@@ -1,4 +1,6 @@
-# Udstyrsliste {#sec-udstyrsliste}
+---
+title: Udstyrsliste 
+---
 
 **Langtidblodsukker**
 

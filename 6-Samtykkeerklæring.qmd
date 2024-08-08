@@ -1,4 +1,6 @@
-# Samtykkeerklæring {#sec-samtykkeerklæring}
+---
+title: Samtykkeerklæring
+---
 
 **Informeret samtykke til deltagelse i et sundhedsvidenskabeligt forskningsprojekt**
 
