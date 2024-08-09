@@ -29,7 +29,7 @@ website:
       - text: "Afklarende samtale"
         href: 1-afklarende-samtale.qmd
       - text: "Testmanual"
-        href: Testmanual
+        href: 2-testmanual.qmd
       - text: "REDCap"
         href: 3-REDCap.qmd
       - text: "Aktivitetsmålere"
