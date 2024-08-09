@@ -1,5 +1,10 @@
 ---
 title: Testmanual
+format: 
+  html: default
+  pdf: default
+execute: 
+  echo: false
 ---
 
 ## Blodtryk

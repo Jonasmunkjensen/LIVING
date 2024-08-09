@@ -1,5 +1,10 @@
 ---
 title: Vejledning i brug af REDCap
+format: 
+  html: default
+  pdf: default
+execute: 
+  echo: false
 ---
 
 ## Hvad er REDCap?

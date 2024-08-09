@@ -1,5 +1,10 @@
 ---
 title: Samtykkeerklæring
+format: 
+  html: default
+  pdf: default
+execute: 
+  echo: false
 ---
 
 **Informeret samtykke til deltagelse i et sundhedsvidenskabeligt forskningsprojekt**

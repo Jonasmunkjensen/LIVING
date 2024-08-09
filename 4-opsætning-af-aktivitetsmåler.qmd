@@ -1,5 +1,10 @@
 ---
 title: Opsætning af aktivitetsmåler
+format: 
+  html: default
+  pdf: default
+execute: 
+  echo: false
 ---
 
 ## Download OmGui

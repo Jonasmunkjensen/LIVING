@@ -1,5 +1,10 @@
 ---
 title: Procedure for afklarende samtale
+format: 
+  html: default
+  pdf: default
+execute: 
+  echo: false
 ---
 
 1.  REDcap kan med fordel åbnes på forhånd. Desuden kan borgeren oprettes og data fra henvisningen registreres på forhånd. Hvis borger ikke er egnet eller afviser at deltage, kan brugeren slettes igen.
