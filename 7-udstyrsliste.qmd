@@ -1,5 +1,10 @@
 ---
-title: Udstyrsliste 
+title: Udstyrsliste
+format: 
+  html: default
+  pdf: default
+execute: 
+  echo: false
 ---
 
 **Langtidblodsukker**
