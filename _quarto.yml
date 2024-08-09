@@ -13,7 +13,7 @@ website:
 
   navbar:
     background: light
-    logo: logo.PNG
+    logo: logo.png
     logo-alt: Steno Diabetes Center Aarhus
     title: false
     tools:
@@ -29,7 +29,7 @@ website:
       - text: "Afklarende samtale"
         href: 1-afklarende-samtale.qmd
       - text: "Testmanual"
-        href: 2-testmanual.qmd
+        href: 2-testmanual
       - text: "REDCap"
         href: 3-REDCap.qmd
       - text: "Aktivitetsmålere"
