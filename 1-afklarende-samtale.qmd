@@ -47,7 +47,7 @@ Hvis borger forholder sig kritisk i forhold til ventelisten, er der en mere nuan
 
 5.  Hvis borger ønsker at deltage underskrives en samtykkeerklæring. Borger har ret til ti dages betænkningstid.
 
-6.  Borger oprettes i REDCap (@sec-redcap)
+6.  Borger oprettes i REDCap
 
 7.  Punkterne `Afklarende samtale og 1. måling` udfyldes i REDCap og der foretages randomisering
 
