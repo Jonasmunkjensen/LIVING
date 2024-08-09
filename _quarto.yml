@@ -2,60 +2,49 @@ project:
   type: website
 
 website:
-  page-navigation: true
   title: "LIVING forskningsprojekt"
   site-url: "https://jonasmunkjensen.github.io/LIVING/"
   repo-url: "https://jonasmunkjensen.github.io/LIVING/"
+  page-navigation: true
+  search: true
 
   page-footer:
     right: "Denne hjemmeside er lavet i [Quarto](https://quarto.org/)."
 
-  sidebar:
-    background: "#D9E3E4"
-    logo: "logo.PNG"
-    pinned: true
-    align: center
+  navbar:
+    background: light
+    logo: logo.PNG
+    logo-alt: Steno Diabetes Center Aarhus
+    title: false
     tools:
       - icon: github
         href: https://github.com/Jonasmunkjensen/LIVING
         text: "LIVING"
-
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - href: index.qmd
-        text: Forside
-
-      - href: 0-introduktion.qmd
-        text: Introduktion
-
-      - href: 1-afklarende-samtale.qmd
-        text: Afklarende samtale
-
-      - href: 2-testmanual.qmd
-      - text: Testmanual
-
-      - href: 3-REDCap.qmd
-        text: REDCap
-
-      - href: 4-opsætning-af-aktivitetsmåler.qmd
-        text: Klargøring af aktivitetsmålere
-
-      - href: 5-HbA1c-apparat.qmd
-        text: HbA1c apparat
-
-      - href: 6-Samtykkeerklæring.qmd
-        text: Samtykkeerklæringer til print
-
-      - href: 7-udstyrsliste.qmd
-      - text: Udstyrsliste
+    collapse-below: lg
+    left:
+      - text: "Forside"
+        href: index.qmd
+      - text: "Introduktion"
+        href: 0-introduktion.qmd
+      - text: "Afklarende samtale"
+        href: 1-afklarende-samtale.qmd
+      - text: "Testmanual"
+        href: Testmanual
+      - text: "REDCap"
+        href: 3-REDCap.qmd
+      - text: "Aktivitetsmålere"
+        href: 4-opsætning-af-aktivitetsmåler.qmd
+      - text: "HbA1c apparat"
+        href: 5-HbA1c-apparat.qmd
+      - text: "Samtykkeerklæringer"
+        href: 6-Samtykkeerklæring.qmd
+      - text: "Udstyrsliste"
+        href: 7-udstyrsliste.qmd
 
 format:
   html:
     theme:
       light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
     toc: true
