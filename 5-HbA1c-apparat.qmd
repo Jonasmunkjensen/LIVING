@@ -73,13 +73,13 @@ Inden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhe
 
 1.  Nødvendige materialer
 
-**A)** 1 HbA1c QC Info disc
+**A)** 1x HbA1c QC Info disc
 
-**B)** 1 QC-opløsning niveau 1
+**B)** 1x QC-opløsning niveau 1
 
-**C)** 1 QC-opløsning niveau 2
+**C)** 1x QC-opløsning niveau 2
 
-**D)** 2 HbA1c-kassetter
+**D)** 2x HbA1c-kassetter
 
 ![](pics/qc1.PNG)
 
@@ -115,7 +115,7 @@ Inden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhe
 
 ![](pics/qc9.PNG)
 
-10. Vælg niveauet for QC-målingen (*Niveau 1* eller *Niveau 2*)
+10. Vælg *Level 1* for QC-målingen
 
 ![](pics/qc10.PNG)
 
