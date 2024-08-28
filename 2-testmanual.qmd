@@ -409,7 +409,7 @@ At sikre præcis måling af fysisk aktivitet.
 
 -   Sørg for, at huden på monteringsstedet er ren og tør. Sprit området af om nødvendigt og lad tørre
 
--   Fold en kompres ud, læg folden på midten af accelerometerets forside (siden med tekst) i længderetningen. Fold kompressen omkring accelerometeret, så der bliver dobbelt lag på bagsiden (som skal vende mod huden). Placér ”pakken” på forsiden af låret, midt mellem knæ og hofte og midt på låret i tværretningen. USB-stikket skal pege ned mod knæet
+-   Fold en kompres ud, læg folden på midten af accelerometerets forside (siden med tekst) i længderetningen. Fold kompressen omkring accelerometeret, så der bliver dobbelt lag på bagsiden (som skal vende mod huden). Placér ”pakken” på forsiden af låret, midt mellem knæ og hofte og midt på låret i tværretningen. Pilen på måleren skal pege ned mod knæet
 
 -   Fjern papiret fra et stykke Opsite Flexifix og sæt tapen på aktivitetsmåleren i længderetningen
 
