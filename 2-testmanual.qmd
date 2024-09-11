@@ -403,32 +403,38 @@ At sikre præcis måling af fysisk aktivitet.
 
 -   Bed deltageren om at trække bukserne ned til knæene.
 
--   Accelerometer skal påsættes midt på højre lår.
+-   Aktivitetssmåleren placeres midt på HØJRE lår.
 
 -   Vurdér om det er nødvendigt at barbere deltagerens lår (mange og lange hår på monteringsområdet skal fjernes). Brug en engangsskraber og undgå at skade huden
 
 -   Sørg for, at huden på monteringsstedet er ren og tør. Sprit området af om nødvendigt og lad tørre
 
--   Fold en kompres ud, læg folden på midten af accelerometerets forside (siden med tekst) i længderetningen. Fold kompressen omkring accelerometeret, så der bliver dobbelt lag på bagsiden (som skal vende mod huden). Placér ”pakken” på forsiden af låret, midt mellem knæ og hofte og midt på låret i tværretningen. Pilen på måleren skal pege ned mod knæet
+-   Klip et stykke gazebind så det har samme størrelse som aktivitetsmåleren.
 
--   Fjern papiret fra et stykke Opsite Flexifix og sæt tapen på aktivitetsmåleren i længderetningen
+-   Placer aktivitetsmåleren oven på gazebindet. Bilen på aktivitetsmåleren skal pege nedad mod borgerens fod
+
+![](pics/acc2.PNG)
+
+-   Læg et stykke Opsite Flexifix lodret over aktivitetsmåleren
+
+-   Fjern forsigtigt filmen på bagsiden af plasteret og tryk det fast for at aktivere limen
 
 -   Tryk Opsite Flexifix godt ned omkring enderne af aktivitetsmåleren
 
--   Fjern plastikken fra Opsite Flexifix og sørg for, at tapen sidder fast på huden
+-   Derefter trækkes den øverste film 'med grøn skrift' af
+
+![](pics/acc3.PNG)
+
+-   Placer et andet stykke Opsite Flexifix vandret oven på aktivitetsmåleren, så plastrene danner et kryds
+
+-   Fjern forsigtigt filmen på bagsiden af plasteret og tryk det fast for at aktivere limen
+
+-   Tryk Opsite Flexifix godt ned omkring enderne af aktivitetsmåleren
+
+-   Derefter trækkes den øverste film 'med grøn skrift' af
 
 -   Aktivér limen ved at trykke på hele Opsite Flexifix
 
--   Fjern papiret fra et stykke Opsite Flexifix og sæt tapen på aktivitetsmåleren i tværgående retning
-
--   Tryk Opsite Flexifix godt ned omkring siderne af aktivitetsmåleren
-
--   Fjern plastikken fra Opsite Flexifix og sørg for, at tapen sidder fast på huden.
-
--   Aktivér limen ved at trykke på hele Opsite Flexifix.
+![](pics/acc4.PNG)
 
 -   Borgeren får udleveret en guide og et kit så de selv kan sætte accellerometret på, skulle det falde af.
-
-### Billede af aktivitetsmåling
-
-![OBS! på billedet er den øverste film ikke taget af, for at gøre tapen tydeligt på billedet](/pics/acc.PNG)
