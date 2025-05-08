@@ -1,103 +1,5 @@
 [
   {
-    "objectID": "3-REDCap.html",
-    "href": "3-REDCap.html",
-    "title": "Vejledning i brug af REDCap",
-    "section": "",
-    "text": "REDCap () er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC."
-  },
-  {
-    "objectID": "3-REDCap.html#hvad-er-redcap",
-    "href": "3-REDCap.html#hvad-er-redcap",
-    "title": "Vejledning i brug af REDCap",
-    "section": "",
-    "text": "REDCap () er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC."
-  },
-  {
-    "objectID": "3-REDCap.html#opstart-af-redcap",
-    "href": "3-REDCap.html#opstart-af-redcap",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Opstart af REDCap",
-    "text": "Opstart af REDCap\nNår man er tilføjet som REDCap-bruger og tildelt rettigheder i LIVING databasen kan databasen åbnes via dette link: https://redcap.au.dk/\nScroll ned i bunden af siden og login med de brugeroplysninger du har modtaget på mail\n\nNår du er logget ind vælger du fanen My Projects i topmenuen, scroller ned i bunden af siden og vælger LIVINGi My Projects\n\nDu finder alt du skal bruge i menuen til venstre. Menuen er sammensat så den kun indeholder funktioner som du skal bruge."
-  },
-  {
-    "objectID": "3-REDCap.html#oprettelse-og-indtastning-af-deltager-i-redcap",
-    "href": "3-REDCap.html#oprettelse-og-indtastning-af-deltager-i-redcap",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Oprettelse og indtastning af deltager i REDCap",
-    "text": "Oprettelse og indtastning af deltager i REDCap\n\nOpret en ny borger ved at trykke på +Add ned record. Dette kan gøres inden den afklarende samtale\n\nTryk på cirklen for 1. besøg"
-  },
-  {
-    "objectID": "3-REDCap.html#indtastning",
-    "href": "3-REDCap.html#indtastning",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Indtastning",
-    "text": "Indtastning\nDu kan indtaste data på borgeren inden den afklarende samtale Du kan altid gemme og vende tilbage til indtastningen ved at trykke Save & Exit Form\n\n\n\n\n\n\n\nWarning\n\n\n\nSe bort fra feltet Uploadfelt til samtykke. Gem det skriftlige samtykke i en mappe\n! Randomisering SKAL først ske, når skriftligt samtykke er indhentet\n\n\n\nInformer borgeren om hvilken gruppe de er kommet i. I dette tilfælde intervention"
-  },
-  {
-    "objectID": "3-REDCap.html#send-spørgeskema-til-borger",
-    "href": "3-REDCap.html#send-spørgeskema-til-borger",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Send spørgeskema til borger",
-    "text": "Send spørgeskema til borger\nMarker hele linket Unikt link til Questionnaire ved at trykke (Ctrl + a), kopier det (Ctrl + c) og send link til borger til e-boks via fx dok2 mail"
-  },
-  {
-    "objectID": "3-REDCap.html#søg-en-borger-frem",
-    "href": "3-REDCap.html#søg-en-borger-frem",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Søg en borger frem",
-    "text": "Søg en borger frem\nI Search querykan du søge en borger frem vha. CPR eller navn"
-  },
-  {
-    "objectID": "3-REDCap.html#vælg-indtastningsark",
-    "href": "3-REDCap.html#vælg-indtastningsark",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Vælg indtastningsark",
-    "text": "Vælg indtastningsark\n\n\n\n\n\n\nWarning\n\n\n\nNår du søger en borger frem åbner den altid i 1. besøg. Tryk på Record ID for at få overblik over alle besøg"
-  },
-  {
-    "objectID": "3-REDCap.html#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data",
-    "href": "3-REDCap.html#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data",
-    "text": "Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data\nFarverne indikerer status for ark. Status ændres i bunden af hvert ark"
-  },
-  {
-    "objectID": "3-REDCap.html#afslutte-registrering-på-besøg",
-    "href": "3-REDCap.html#afslutte-registrering-på-besøg",
-    "title": "Vejledning i brug af REDCap",
-    "section": "Afslutte registrering på besøg",
-    "text": "Afslutte registrering på besøg\nI bunden af hvert ark kan vælges status og Save & Exit Form eller Save & Go To Next Form (dropdown menu)\nNår al data er udfyldt ændres Form Status fra Incomplete til Complete i dropdown menuen"
-  },
-  {
-    "objectID": "7-udstyrsliste.html",
-    "href": "7-udstyrsliste.html",
-    "title": "Udstyrsliste",
-    "section": "",
-    "text": "Langtidblodsukker\n\nCobas B 101 apparat\n20 kasser Hba1c test kits (200 stk)\n1 kasse fingerprikker (2oo stk)\nKasser til kalibrering sendes direkte fra fabrikken til sundhedscenteret løbende\n\nAktivitetsmåler\n\n20 Axivity AX3 aktivitetsmåler\n1 ladestation\n10 ladekabler\n250 stk opsite flex tape\n2 pakker Mesoft compression (200 stk)\n100 Kuverter med 4x tape, 1x Mesoft compression og manual\n100 stk engangsskrabere\n\nInformationsmateriale\n\n50 stk deltagerinformation\n50 stk samtykkeerklæringer"
-  },
-  {
-    "objectID": "6-Samtykkeerklæring.html",
-    "href": "6-Samtykkeerklæring.html",
-    "title": "Samtykkeerklæring",
-    "section": "",
-    "text": "Informeret samtykke til deltagelse i et sundhedsvidenskabeligt forskningsprojekt\nForskningsprojektets titel: LIVING – fysisk aktivitet i et kommunalt uddannelsestilbud til borgere med type 2-diabetes.\nErklæring fra deltager i forskningsprojektet:\nJeg har fået skriftlig og mundtlig information, og jeg ved nok om formål, metode, fordele og ulemper til at sige ja til at deltage. Jeg ved, at det er frivilligt at deltage, og at jeg altid kan trække mit samtykke tilbage uden at miste mine nuværende eller fremtidige rettigheder til behandling. Jeg giver samtykke til, at deltage i forskningsprojektet, og har fået en kopi af dette samtykkeark samt en kopi af den skriftlige information om projektet til eget brug.\nNavn på deltager i forskningsprojektet: _____________________________\nDato: __________________________\nUnderskrift: ______________________________________\nØnsker du at blive informeret om forskningsprojektets resultat samt eventuelle konsekvenser for dig?:\nJa ______ (sæt x) Nej ______ (sæt x)\nErklæring fra den, der afgiver information:\nJeg erklærer, at deltageren i forskningsprojektet har modtaget mundtlig og skriftlig information om undersøgelsen. Efter min overbevisning er der givet tilstrækkelig information til, at der kan træffes beslutning om deltagelse i undersøgelsen.\nNavnet på den, der har afgivet information: _________________________\nDato: __________________________\nUnderskrift: ______________________________________"
-  },
-  {
-    "objectID": "0-introduktion.html",
-    "href": "0-introduktion.html",
-    "title": "Introduktion",
-    "section": "",
-    "text": "Denne hjemmeside har til formål at klæde personale på som indsamler data i LIVING forskningsprojektet. Nogle procedure kan opdateres undervejs, hvis vi løbende kommer på bedre metoder. Alle ændringer vil ske på denne hjemmeside, hvorfor det er vigtigt at man orienterer sig på denne hjemmeside inden der skal foretages dataindsamling.\nFor at sikre høj kvalitet i forskningsprojektet LIVING er det afgørende, at dataindsamlingen følger faste procedurer. Dette bidrager til ensartet indsamling af data, uanset hvilken medarbejder der foretager målinger og tests. Ud over at levere pålidelige data til forskningsprojektet, har manualen også til formål at sikre, at borgerne har en positiv oplevelse af at deltage. Inden borgerne undersøges, skal de underskrive en samtykkeerklæring, der giver Steno Diabetes Center Aarhus til at anvende resultaterne til forskningsformål.\nDet vurderes at testprocedurerne tager ca. 45 min.\nKontakt vedr. dataindsamling:\nJonas Munk Jensen, Projektmedarbejder\nJonas.munk.jensen@rm.dk\nTlf: 24607984"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LIVING forskningsprojekt",
-    "section": "",
-    "text": "Testmanualer og informationer\nJonas Munk Jensen\nSteno Diabetes Center Aarhus\nAarhus Universitetshospital"
-  },
-  {
     "objectID": "1-afklarende-samtale.html",
     "href": "1-afklarende-samtale.html",
     "title": "Procedure for afklarende samtale",
@@ -137,7 +39,7 @@
     "href": "4-opsætning-af-aktivitetsmåler.html#start-omgui-softwaren",
     "title": "Opsætning af aktivitetsmåler",
     "section": "Start OMGui softwaren",
-    "text": "Start OMGui softwaren\n\nForbind accelerometeret til computeren vha. USB\nAfvent at accelerometeret kommer på Device listen\nHvis der er data på accelerometeret, skal det downloades (se download afsnittet længere nede), hvis det ikke allerede er gjort\nTøm accelerometeret for data ved at markere accelerometeret og tryk ”Clear” og ”ok” til at slette indholdet\nMarker accelerometeret i listen\nTryk ”Record” for at opsætte accelerometeret (du får følgende vindue frem)\n\n\n\nIndtast borgerens RedCap/Record ID i Recording sessions\nVælg Sampling Freq. (Hz) 50\nVælg Range 8\nVælg Interval under Recording Time\nStart date sættes til den dag borgeren skal have det på og tidspunkt svarende til, hvornår testen er overstået. fx .nov.2024 kl.14:00\nI unpacked data sættes et flueben – husk dette!\nDer klikkes ok."
+    "text": "Start OMGui softwaren\n\nForbind accelerometeret til computeren vha. USB\nAfvent at accelerometeret kommer på Device listen\nHvis der er data på accelerometeret, skal det tømmes ved at markere accelerometeret og tryk ”Clear” og ”ok” til at slette indholdet\nMarker accelerometeret i listen\nTryk ”Record” for at opsætte accelerometeret (du får følgende vindue frem)\n\n\n\nIndtast borgerens RedCap/Record ID i Recording sessions\n\n\n\n\n\n\n\nWarning\n\n\n\nDet er vigtigt at Record ID indtastes UDEN bindestreg. fx 531377\n\n\n\nVælg Sampling Freq. (Hz) 50\nVælg Range 8\nVælg Interval under Recording Time\nStart date sættes til den dag borgeren skal have det på og tidspunkt svarende til, hvornår testen er overstået. fx 08-maj-2025 kl.10:28\nDuration sættes til 7 dage\nI unpacked data sættes et flueben – husk dette!\nDer klikkes ok.\nTjek at borgerens Record ID står under Session Id"
   },
   {
     "objectID": "4-opsætning-af-aktivitetsmåler.html#gå-ind-i-redcap-projektet-living",
@@ -152,34 +54,6 @@
     "title": "Opsætning af aktivitetsmåler",
     "section": "Download data fra accelerometrene",
     "text": "Download data fra accelerometrene\n\n\n\n\n\n\nWarning\n\n\n\nDenne procedure er kun relevant, hvis man sidder med et accelerometer som ikke er renset for data. Kontakt Jonas 24607984 inden du går videre.\n\n\n\nStart OMGui softwaren\nForbind accelerometret til computeren ved hjælp af Hub - USB\nAfvent at accelerometret kommer på Device listen\nOpret mappe til download, hvor data skal placeres. Navngiv mappen efter dataindsamlingstidspunktet. fx acc_besøg2.Det går hurtigst, hvis du downloader til computeren først og herefter uploader til krypteret harddisk\nTjek at Workspace er korrekt eller vælg mappe til download ved at trykke på de tre prikker …\nHvis accelerometrene stadig måler marker accelerometrene og tryk på Stop\nHvis der er data på accelerometrene marker alle instrumenterne og vælg `Download´\nData er downloadet, når der står Complete\nTjek om filen er downloadet korrekt ved at markere filen i det nederste vindue data files og se data i displayet\nNår du er færdig med at downloade tjek i mappen for download om antal filer stemmer overens med antallet af downloadede accelerometre. Tjek også at filerne er helt downloadede – der må ikke stå .part i slutningen af den downloadede fil\nDe første cifre i filnavnet er scanner nr., som står på tekstsiden af accelerometeret. Det sidste nr. er borgerens id (session id)\nUpload data til mappen accelerometer_[tidspunkt] på Nextcloud"
-  },
-  {
-    "objectID": "5-HbA1c-apparat.html",
-    "href": "5-HbA1c-apparat.html",
-    "title": "HbA1c apparat",
-    "section": "",
-    "text": "Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.\nOptisk kontrol tager et øjeblik, og bør måles hver dag instrumentet skal anvendes til tests.\n\n\n\n\n\nDen optiske test disc må IKKE komme på køl men skal opbevares ved stuetemperatur.\n\n\n\n\n\nVælg Kontroltest --&gt; Optisk test\nVælg Åbn. Åbn låget, indsæt optisk test disc og luk låget\nVælg flueben. Efter få sekunder er testen færdig\nVælg flueben.\nVælg Åbn. Åbn låget, fjern optisk test disc og gem den i etuiet\nLuk låget. Hovedskærmen vises og apparatet er klar til at foretage hba1c målinger"
-  },
-  {
-    "objectID": "5-HbA1c-apparat.html#optisk-kontrol",
-    "href": "5-HbA1c-apparat.html#optisk-kontrol",
-    "title": "HbA1c apparat",
-    "section": "",
-    "text": "Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.\nOptisk kontrol tager et øjeblik, og bør måles hver dag instrumentet skal anvendes til tests.\n\n\n\n\n\nDen optiske test disc må IKKE komme på køl men skal opbevares ved stuetemperatur.\n\n\n\n\n\nVælg Kontroltest --&gt; Optisk test\nVælg Åbn. Åbn låget, indsæt optisk test disc og luk låget\nVælg flueben. Efter få sekunder er testen færdig\nVælg flueben.\nVælg Åbn. Åbn låget, fjern optisk test disc og gem den i etuiet\nLuk låget. Hovedskærmen vises og apparatet er klar til at foretage hba1c målinger"
-  },
-  {
-    "objectID": "5-HbA1c-apparat.html#kvalitetskontrol-af-hba1c-kassetter",
-    "href": "5-HbA1c-apparat.html#kvalitetskontrol-af-hba1c-kassetter",
-    "title": "HbA1c apparat",
-    "section": "Kvalitetskontrol af HbA1c kassetter",
-    "text": "Kvalitetskontrol af HbA1c kassetter\n\nOpbevaring\n\nHbA1c kontrollerne skal opbevares på køl ved en temperatur mellem 2°C og 8°C.\nI bliver orienteret når der leveres en ny pakke, så vi undgår at pakken ligger udenfor køl.\n\n\n\nPakkespecifikationer\n\nKontrollerne kommer i to niveauer (niveau 1 og niveau 2).\nHver pakke indeholder to sæt kontroller: 2 x niveau 1 og 2 x niveau 2.\n\n\n\nHyppighed for kvalitetskontroller\n\nEfter åbning kan et sæt kontroller opbevares på køl og anvendes i op til 30 dage\nUåbnede sæt kan opbevares indtil udløbsdatoen, som er angivet på pakken. Udløbsdatoen er normalt omkring et år.\nDer foretages kontrol 1 gang om måneden i følgende rul:\n\n1: Første sæt kontroller (niveau 1+2) anbrydes og analyseres. Dette sæt kan nu holde sig i 30 dage på køl.\n2: En måned senere (ca. 30 dage) bruges det første sæt (niveau 1+2) til ny kvalitetskontrol, hvorefter sættes kasseres.\n3: En måned senere tages andet sæt kontroller i brug, som så igen kan holde sig i 30 dage på køl.\n4: En måned senere (ca. 30 dage) bruges det andet sæt (niveau 1+2) til ny analysering, hvorefter sættes kasseres.\n\nHerefter er der brug for en ny pakke kontroller, som vil kunne dække de næste 4 måneders forbrug\n\n\n\n\n\n\n\nWarning\n\n\n\nInden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhed. Apparatet skal indstilles til at angive HbA1C som IFCC. Vælg indstillinger –&gt; QC-måling –&gt; enheder –&gt; IFCC\n\n\n\n\nUdfør kvalitetskontrol\n\nNødvendige materialer\n\nA) 1x HbA1c QC Info disc\nB) 1x QC-opløsning niveau 1\nC) 1x QC-opløsning niveau 2\nD) 2x HbA1c-kassetter\n\n\nTænd for instrumentet\n\n\n\nVælg Kontroltest, og vælg derefter QC-måling\n\n\n\nVælg Nyt QC Lot\n\n\n\nTag Info disc frem\n\n\n\nFor at åbne låget skal du vælge Åbn på skærmen og følge vejledningerne på skærmen\n\n\n\nAnbring QC Info disc på drejeskiven inden for den hvide cirkel\n\n\n\nLuk låget\n\n\n\nMålværdierne og målområderne for niveau 1 og niveau 2 vises. Vælg flueben for at validere værdierne. QC-oplysningerne gemmes automatisk i systemet\n\n\n\nVælg Level 1 for QC-målingen\n\n\n\nÅbn posen med kassetten, og tag HbA1c-kassetten ud\n\n\n\nLæg kassetten på bagsiden, og åbn den helt\n\n\n\nPåfør forsigtigt en dråbe QC-opløsning på sugepunktet. Kontrollér, at det er på det niveau, som du netop har valgt\n\n\n\nKontrollér prøvemængden: Området markeret med blå skal være helt fyldt ud med QC-opløsning\n\n\n\nLuk det hængslede dæksel fast. Når det hængslede dæksel er lukket, kan det ikke åbnes igen\n\n\n\nVælg Åbn. Fjern HbA1c QC Info disc. Sæt HbA1c-kassetten i. Luk låget\n\n\n\nKontrollér, at QC-opløsningens lotnummer svarer til det lotnummer, der vises på skærmen. Vælg flueben for at starte målingen\n\n\n\nNår målingen er udført, skal du vælge flueben for at fortsætte med QC-målingen på det andet niveau\n\n\n\nÅbn posen med kassetten, og tag HbA1c-kassetten ud\n\n\n\nVælg Åbn på skærmen for at åbne låget. Fjern den første HbA1c-kassette, sæt derefter den anden HbA1c-kassette i, og luk låget\n\n\n\nKontrollér, at QC-opløsningens lotnummer svarer til det lotnummer, der vises på skærmen. Vælg flueben for at starte målingen\n\n\n\nNår målingen er udført, vises resultaterne for både niveau 1 og niveau 2\n\n\n\nFor at afslutte målingen skal du vælge flueben på skærmen og bortskaffe kassetterne på korrekt vis"
-  },
-  {
-    "objectID": "5-HbA1c-apparat.html#rengøring-af-hba1c-apparat",
-    "href": "5-HbA1c-apparat.html#rengøring-af-hba1c-apparat",
-    "title": "HbA1c apparat",
-    "section": "Rengøring af HbA1c apparat",
-    "text": "Rengøring af HbA1c apparat\nDer er ingen standarter for hvor ofte apparatet skal rengøres. Fabrikanten anbefaler faktisk kun rengøring og desinficering, hvis der ses synligt støv eller snavs, eller hvis der er et spild. Fx hvis en kassette ikke har været lukket korrekt inden det sættes i instrumentet, og prøvematerialet slynges ud af kassetten under centrifugering - dette medfører dog også en fejlmeddelelse, og analysen stopper, hvorefter der skal rengøres indvendigt.\nTil rengøring indvendig benyttes wetwipes som indeholder 70% ethanol.\nTil udvendig rengøring benyttes tørre, bløde og fnugfri klude."
   },
   {
     "objectID": "2-testmanual.html",
@@ -243,5 +117,131 @@
     "title": "Testmanual",
     "section": "Påsætning af aktivitetsmålere",
     "text": "Påsætning af aktivitetsmålere\n\nFormål\nAt sikre præcis måling af fysisk aktivitet.\n\n\nMåleudstyr\n\n1 skt. Axivity AX3 aktivitetsmåler\n1 pose med 8 stk. Opsite flexfit og 4 stk. Mesoft kompresser 5x5 cm.\nEventuelt engangsskaber\nSprit\n\n\n\nProcedure\n\nÅbn programmet OmGui.\n\nBevægelsesmåler skal være opladt til over 85%.\nForklar deltageren, hvad der skal ske.\nMarker filen og tryk på “record”\nIndtast borgerens Record-ID fra REDCap ind i Recording Session ID\nFreq. (Hz) skal være 50\nRecording time indstilles til:\nInterval\nStart date sættes til dagen borgeren får måleren på (fx 1. nov. 2024 kl. 14:00)\nEnd data sættes til 8 dage senere (fx 9. nov. 2024 kl. 14:00)\nI unpacked data sættes flueben – husk dette!!\nKlik ok.\n\n\n\nÅben REDCap:\n\nIndtast accelerometer nummer ind i REDcap og udfyld punkterne om påsætning i REDcap.\nBed deltageren om at trække bukserne ned til knæene.\nAktivitetssmåleren placeres midt på HØJRE lår.\nVurdér om det er nødvendigt at barbere deltagerens lår (mange og lange hår på monteringsområdet skal fjernes). Brug en engangsskraber og undgå at skade huden\nSørg for, at huden på monteringsstedet er ren og tør. Sprit området af om nødvendigt og lad tørre\nKlip et stykke gazebind så det har samme størrelse som aktivitetsmåleren.\nPlacer aktivitetsmåleren oven på gazebindet. Bilen på aktivitetsmåleren skal pege nedad mod borgerens fod\n\n\n\nLæg et stykke Opsite Flexifix lodret over aktivitetsmåleren\nFjern forsigtigt filmen på bagsiden af plasteret og tryk det fast for at aktivere limen\nTryk Opsite Flexifix godt ned omkring enderne af aktivitetsmåleren\nDerefter trækkes den øverste film ‘med grøn skrift’ af\n\n\n\nPlacer et andet stykke Opsite Flexifix vandret oven på aktivitetsmåleren, så plastrene danner et kryds\nFjern forsigtigt filmen på bagsiden af plasteret og tryk det fast for at aktivere limen\nTryk Opsite Flexifix godt ned omkring enderne af aktivitetsmåleren\nDerefter trækkes den øverste film ‘med grøn skrift’ af\nAktivér limen ved at trykke på hele Opsite Flexifix\n\n\n\nBorgeren får udleveret en guide og et kit så de selv kan sætte accellerometret på, skulle det falde af."
+  },
+  {
+    "objectID": "6-Samtykkeerklæring.html",
+    "href": "6-Samtykkeerklæring.html",
+    "title": "Samtykkeerklæring",
+    "section": "",
+    "text": "Informeret samtykke til deltagelse i et sundhedsvidenskabeligt forskningsprojekt\nForskningsprojektets titel: LIVING – fysisk aktivitet i et kommunalt uddannelsestilbud til borgere med type 2-diabetes.\nErklæring fra deltager i forskningsprojektet:\nJeg har fået skriftlig og mundtlig information, og jeg ved nok om formål, metode, fordele og ulemper til at sige ja til at deltage. Jeg ved, at det er frivilligt at deltage, og at jeg altid kan trække mit samtykke tilbage uden at miste mine nuværende eller fremtidige rettigheder til behandling. Jeg giver samtykke til, at deltage i forskningsprojektet, og har fået en kopi af dette samtykkeark samt en kopi af den skriftlige information om projektet til eget brug.\nNavn på deltager i forskningsprojektet: _____________________________\nDato: __________________________\nUnderskrift: ______________________________________\nØnsker du at blive informeret om forskningsprojektets resultat samt eventuelle konsekvenser for dig?:\nJa ______ (sæt x) Nej ______ (sæt x)\nErklæring fra den, der afgiver information:\nJeg erklærer, at deltageren i forskningsprojektet har modtaget mundtlig og skriftlig information om undersøgelsen. Efter min overbevisning er der givet tilstrækkelig information til, at der kan træffes beslutning om deltagelse i undersøgelsen.\nNavnet på den, der har afgivet information: _________________________\nDato: __________________________\nUnderskrift: ______________________________________"
+  },
+  {
+    "objectID": "7-udstyrsliste.html",
+    "href": "7-udstyrsliste.html",
+    "title": "Udstyrsliste",
+    "section": "",
+    "text": "Langtidblodsukker\n\nCobas B 101 apparat\n20 kasser Hba1c test kits (200 stk)\n1 kasse fingerprikker (2oo stk)\nKasser til kalibrering sendes direkte fra fabrikken til sundhedscenteret løbende\n\nAktivitetsmåler\n\n20 Axivity AX3 aktivitetsmåler\n1 ladestation\n10 ladekabler\n250 stk opsite flex tape\n2 pakker Mesoft compression (200 stk)\n100 Kuverter med 4x tape, 1x Mesoft compression og manual\n100 stk engangsskrabere\n\nInformationsmateriale\n\n50 stk deltagerinformation\n50 stk samtykkeerklæringer"
+  },
+  {
+    "objectID": "5-HbA1c-apparat.html",
+    "href": "5-HbA1c-apparat.html",
+    "title": "HbA1c apparat",
+    "section": "",
+    "text": "Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.\nOptisk kontrol tager et øjeblik, og bør måles hver dag instrumentet skal anvendes til tests.\n\n\n\n\n\nDen optiske test disc må IKKE komme på køl men skal opbevares ved stuetemperatur.\n\n\n\n\n\nVælg Kontroltest --&gt; Optisk test\nVælg Åbn. Åbn låget, indsæt optisk test disc og luk låget\nVælg flueben. Efter få sekunder er testen færdig\nVælg flueben.\nVælg Åbn. Åbn låget, fjern optisk test disc og gem den i etuiet\nLuk låget. Hovedskærmen vises og apparatet er klar til at foretage hba1c målinger"
+  },
+  {
+    "objectID": "5-HbA1c-apparat.html#optisk-kontrol",
+    "href": "5-HbA1c-apparat.html#optisk-kontrol",
+    "title": "HbA1c apparat",
+    "section": "",
+    "text": "Den optiske test disc er en særlig kassette, som følger med instrumentet. Den har til formål at teste instrumentets optiske funktioner.\nOptisk kontrol tager et øjeblik, og bør måles hver dag instrumentet skal anvendes til tests.\n\n\n\n\n\nDen optiske test disc må IKKE komme på køl men skal opbevares ved stuetemperatur.\n\n\n\n\n\nVælg Kontroltest --&gt; Optisk test\nVælg Åbn. Åbn låget, indsæt optisk test disc og luk låget\nVælg flueben. Efter få sekunder er testen færdig\nVælg flueben.\nVælg Åbn. Åbn låget, fjern optisk test disc og gem den i etuiet\nLuk låget. Hovedskærmen vises og apparatet er klar til at foretage hba1c målinger"
+  },
+  {
+    "objectID": "5-HbA1c-apparat.html#kvalitetskontrol-af-hba1c-kassetter",
+    "href": "5-HbA1c-apparat.html#kvalitetskontrol-af-hba1c-kassetter",
+    "title": "HbA1c apparat",
+    "section": "Kvalitetskontrol af HbA1c kassetter",
+    "text": "Kvalitetskontrol af HbA1c kassetter\n\nOpbevaring\n\nHbA1c kontrollerne skal opbevares på køl ved en temperatur mellem 2°C og 8°C.\nI bliver orienteret når der leveres en ny pakke, så vi undgår at pakken ligger udenfor køl.\n\n\n\nPakkespecifikationer\n\nKontrollerne kommer i to niveauer (niveau 1 og niveau 2).\nHver pakke indeholder to sæt kontroller: 2 x niveau 1 og 2 x niveau 2.\n\n\n\nHyppighed for kvalitetskontroller\n\nEfter åbning kan et sæt kontroller opbevares på køl og anvendes i op til 30 dage\nUåbnede sæt kan opbevares indtil udløbsdatoen, som er angivet på pakken. Udløbsdatoen er normalt omkring et år.\nDer foretages kontrol 1 gang om måneden i følgende rul:\n\n1: Første sæt kontroller (niveau 1+2) anbrydes og analyseres. Dette sæt kan nu holde sig i 30 dage på køl.\n2: En måned senere (ca. 30 dage) bruges det første sæt (niveau 1+2) til ny kvalitetskontrol, hvorefter sættes kasseres.\n3: En måned senere tages andet sæt kontroller i brug, som så igen kan holde sig i 30 dage på køl.\n4: En måned senere (ca. 30 dage) bruges det andet sæt (niveau 1+2) til ny analysering, hvorefter sættes kasseres.\n\nHerefter er der brug for en ny pakke kontroller, som vil kunne dække de næste 4 måneders forbrug\n\n\n\n\n\n\n\nWarning\n\n\n\nInden udførelse af kontrol skal man sikre at apparatet angiver den rigtige enhed. Apparatet skal indstilles til at angive HbA1C som IFCC. Vælg indstillinger –&gt; QC-måling –&gt; enheder –&gt; IFCC\n\n\n\n\nUdfør kvalitetskontrol\n\nNødvendige materialer\n\nA) 1x HbA1c QC Info disc\nB) 1x QC-opløsning niveau 1\nC) 1x QC-opløsning niveau 2\nD) 2x HbA1c-kassetter\n\n\nTænd for instrumentet\n\n\n\nVælg Kontroltest, og vælg derefter QC-måling\n\n\n\nVælg Nyt QC Lot\n\n\n\nTag Info disc frem\n\n\n\nFor at åbne låget skal du vælge Åbn på skærmen og følge vejledningerne på skærmen\n\n\n\nAnbring QC Info disc på drejeskiven inden for den hvide cirkel\n\n\n\nLuk låget\n\n\n\nMålværdierne og målområderne for niveau 1 og niveau 2 vises. Vælg flueben for at validere værdierne. QC-oplysningerne gemmes automatisk i systemet\n\n\n\nVælg Level 1 for QC-målingen\n\n\n\nÅbn posen med kassetten, og tag HbA1c-kassetten ud\n\n\n\nLæg kassetten på bagsiden, og åbn den helt\n\n\n\nPåfør forsigtigt en dråbe QC-opløsning på sugepunktet. Kontrollér, at det er på det niveau, som du netop har valgt\n\n\n\nKontrollér prøvemængden: Området markeret med blå skal være helt fyldt ud med QC-opløsning\n\n\n\nLuk det hængslede dæksel fast. Når det hængslede dæksel er lukket, kan det ikke åbnes igen\n\n\n\nVælg Åbn. Fjern HbA1c QC Info disc. Sæt HbA1c-kassetten i. Luk låget\n\n\n\nKontrollér, at QC-opløsningens lotnummer svarer til det lotnummer, der vises på skærmen. Vælg flueben for at starte målingen\n\n\n\nNår målingen er udført, skal du vælge flueben for at fortsætte med QC-målingen på det andet niveau\n\n\n\nÅbn posen med kassetten, og tag HbA1c-kassetten ud\n\n\n\nVælg Åbn på skærmen for at åbne låget. Fjern den første HbA1c-kassette, sæt derefter den anden HbA1c-kassette i, og luk låget\n\n\n\nKontrollér, at QC-opløsningens lotnummer svarer til det lotnummer, der vises på skærmen. Vælg flueben for at starte målingen\n\n\n\nNår målingen er udført, vises resultaterne for både niveau 1 og niveau 2\n\n\n\nFor at afslutte målingen skal du vælge flueben på skærmen og bortskaffe kassetterne på korrekt vis"
+  },
+  {
+    "objectID": "5-HbA1c-apparat.html#rengøring-af-hba1c-apparat",
+    "href": "5-HbA1c-apparat.html#rengøring-af-hba1c-apparat",
+    "title": "HbA1c apparat",
+    "section": "Rengøring af HbA1c apparat",
+    "text": "Rengøring af HbA1c apparat\nDer er ingen standarter for hvor ofte apparatet skal rengøres. Fabrikanten anbefaler faktisk kun rengøring og desinficering, hvis der ses synligt støv eller snavs, eller hvis der er et spild. Fx hvis en kassette ikke har været lukket korrekt inden det sættes i instrumentet, og prøvematerialet slynges ud af kassetten under centrifugering - dette medfører dog også en fejlmeddelelse, og analysen stopper, hvorefter der skal rengøres indvendigt.\nTil rengøring indvendig benyttes wetwipes som indeholder 70% ethanol.\nTil udvendig rengøring benyttes tørre, bløde og fnugfri klude."
+  },
+  {
+    "objectID": "3-REDCap.html",
+    "href": "3-REDCap.html",
+    "title": "Vejledning i brug af REDCap",
+    "section": "",
+    "text": "REDCap (Electronic Data Capture system) er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC."
+  },
+  {
+    "objectID": "3-REDCap.html#hvad-er-redcap",
+    "href": "3-REDCap.html#hvad-er-redcap",
+    "title": "Vejledning i brug af REDCap",
+    "section": "",
+    "text": "REDCap (Electronic Data Capture system) er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC."
+  },
+  {
+    "objectID": "3-REDCap.html#opstart-af-redcap",
+    "href": "3-REDCap.html#opstart-af-redcap",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Opstart af REDCap",
+    "text": "Opstart af REDCap\nNår man er tilføjet som REDCap-bruger og tildelt rettigheder i LIVING databasen kan databasen åbnes via dette link: https://redcap.au.dk/\nScroll ned i bunden af siden og login med de brugeroplysninger du har modtaget på mail\n\nNår du er logget ind vælger du fanen My Projects i topmenuen, scroller ned i bunden af siden og vælger LIVINGi My Projects.\n\nDu finder alt du skal bruge i menuen til venstre. Menuen er sammensat så den kun indeholder funktioner som du skal bruge."
+  },
+  {
+    "objectID": "3-REDCap.html#oprettelse-og-indtastning-af-deltager-i-redcap",
+    "href": "3-REDCap.html#oprettelse-og-indtastning-af-deltager-i-redcap",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Oprettelse og indtastning af deltager i REDCap",
+    "text": "Oprettelse og indtastning af deltager i REDCap\n\nOpret en ny borger ved at trykke på +Add ned record. Dette kan gøres inden den afklarende samtale\n\nTryk på cirklen for 1. besøg"
+  },
+  {
+    "objectID": "3-REDCap.html#indtastning",
+    "href": "3-REDCap.html#indtastning",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Indtastning",
+    "text": "Indtastning\nDu kan indtaste data på borgeren inden den afklarende samtale Du kan altid gemme og vende tilbage til indtastningen ved at trykke Save & Exit Form\n\n\n\n\n\n\n\nWarning\n\n\n\nSe bort fra feltet Uploadfelt til samtykke. Gem det skriftlige samtykke i en mappe\n! Randomisering SKAL først ske, når skriftligt samtykke er indhentet\n\n\n\nInformer borgeren om hvilken gruppe de er kommet i. I dette tilfælde intervention"
+  },
+  {
+    "objectID": "3-REDCap.html#send-spørgeskema-til-borger",
+    "href": "3-REDCap.html#send-spørgeskema-til-borger",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Send spørgeskema til borger",
+    "text": "Send spørgeskema til borger\nMarker hele linket Unikt link til Questionnaire ved at trykke (Ctrl + a), kopier det (Ctrl + c) og send link til borger til e-boks via fx dok2 mail"
+  },
+  {
+    "objectID": "3-REDCap.html#søg-en-borger-frem",
+    "href": "3-REDCap.html#søg-en-borger-frem",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Søg en borger frem",
+    "text": "Søg en borger frem\nI Search querykan du søge en borger frem vha. CPR eller navn"
+  },
+  {
+    "objectID": "3-REDCap.html#vælg-indtastningsark",
+    "href": "3-REDCap.html#vælg-indtastningsark",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Vælg indtastningsark",
+    "text": "Vælg indtastningsark\n\n\n\n\n\n\nWarning\n\n\n\nNår du søger en borger frem åbner den altid i 1. besøg. Tryk på Record ID for at få overblik over alle besøg"
+  },
+  {
+    "objectID": "3-REDCap.html#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data",
+    "href": "3-REDCap.html#vælg-det-relevante-besøg-eller-spørgeskema-hvor-der-skal-tilføjes-data",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data",
+    "text": "Vælg det relevante besøg eller spørgeskema, hvor der skal tilføjes data\nFarverne indikerer status for ark. Status ændres i bunden af hvert ark"
+  },
+  {
+    "objectID": "3-REDCap.html#afslutte-registrering-på-besøg",
+    "href": "3-REDCap.html#afslutte-registrering-på-besøg",
+    "title": "Vejledning i brug af REDCap",
+    "section": "Afslutte registrering på besøg",
+    "text": "Afslutte registrering på besøg\nI bunden af hvert ark kan vælges status og Save & Exit Form eller Save & Go To Next Form (dropdown menu)\nNår al data er udfyldt ændres Form Status fra Incomplete til Complete i dropdown menuen"
+  },
+  {
+    "objectID": "0-introduktion.html",
+    "href": "0-introduktion.html",
+    "title": "Introduktion",
+    "section": "",
+    "text": "Denne hjemmeside har til formål at klæde personale på som indsamler data i LIVING forskningsprojektet. Nogle procedure kan opdateres undervejs, hvis vi løbende kommer på bedre metoder. Alle ændringer vil ske på denne hjemmeside, hvorfor det er vigtigt at man orienterer sig på denne hjemmeside inden der skal foretages dataindsamling.\nFor at sikre høj kvalitet i forskningsprojektet LIVING er det afgørende, at dataindsamlingen følger faste procedurer. Dette bidrager til ensartet indsamling af data, uanset hvilken medarbejder der foretager målinger og tests. Ud over at levere pålidelige data til forskningsprojektet, har manualen også til formål at sikre, at borgerne har en positiv oplevelse af at deltage. Inden borgerne undersøges, skal de underskrive en samtykkeerklæring, der giver Steno Diabetes Center Aarhus til at anvende resultaterne til forskningsformål.\nDet vurderes at testprocedurerne tager ca. 45 min.\nKontakt vedr. dataindsamling:\nJonas Munk Jensen, Projektmedarbejder\nJonas.munk.jensen@rm.dk\nTlf: 24607984"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LIVING forskningsprojekt",
+    "section": "",
+    "text": "Testmanualer og informationer\nJonas Munk Jensen\nSteno Diabetes Center Aarhus\nAarhus Universitetshospital"
   }
 ]
