@@ -23,9 +23,7 @@ Accelerometrene indstilles til én person ad gangen.
 
 -   Afvent at accelerometeret kommer på Device listen
 
--   Hvis der er data på accelerometeret, skal det downloades (se download afsnittet længere nede), hvis det ikke allerede er gjort
-
--   Tøm accelerometeret for data ved at markere accelerometeret og tryk ”Clear” og ”ok” til at slette indholdet
+-   Hvis der er data på accelerometeret, skal det tømmes ved at markere accelerometeret og tryk ”Clear” og ”ok” til at slette indholdet
 
 -   Marker accelerometeret i listen
 
@@ -35,17 +33,27 @@ Accelerometrene indstilles til én person ad gangen.
 
 -   Indtast borgerens RedCap/Record ID i Recording sessions
 
+::: callout-warning
+Det er vigtigt at `Record ID` indtastes **UDEN** bindestreg. `fx 531377`
+:::
+
 -   Vælg Sampling Freq. (Hz) 50
 
 -   Vælg Range 8
 
 -   Vælg *Interval* under *Recording Time*
 
--   Start date sættes til den dag borgeren skal have det på og tidspunkt svarende til, hvornår testen er overstået. `fx .nov.2024 kl.14:00`
+-   Start date sættes til den dag borgeren skal have det på og tidspunkt svarende til, hvornår testen er overstået. `fx 08-maj-2025 kl.10:28`
+
+-   `Duration` sættes til 7 dage 
 
 -   I unpacked data sættes et flueben – husk dette!
 
 -   Der klikkes ok.
+
+-   Tjek at borgerens `Record ID` står under `Session Id`
+
+![](pics/omgui_2.PNG)
 
 ## Gå ind i REDCap projektet "LIVING"
 

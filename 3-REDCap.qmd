@@ -9,7 +9,7 @@ execute:
 
 ## Hvad er REDCap?
 
-REDCap () er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC.
+REDCap (Electronic Data Capture system) er en sikker webapplikation til opbygning og administration af databaser og onlinespørgeskemaer. Systemet er udviklet på Vanderbilt University. REDCap fungerer uden installation af software på PC.
 
 ## Opstart af REDCap
 
@@ -19,7 +19,7 @@ Scroll ned i bunden af siden og login med de brugeroplysninger du har modtaget p
 
 ![](pics/redc2.PNG)
 
-Når du er logget ind vælger du fanen `My Projects` i topmenuen, scroller ned i bunden af siden og vælger `LIVING`i **My Projects**
+Når du er logget ind vælger du fanen `My Projects` i topmenuen, scroller ned i bunden af siden og vælger `LIVING`i **My Projects**.
 
 ![](pics/redc3.PNG)
 
