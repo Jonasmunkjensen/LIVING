@@ -50,6 +50,7 @@ BT under 140/90 Puls 50-80 Hvis borger har en kronisk sygdom ex. diabetes, hjert
 
 -   Målingen gentages efter 1 minut.
 -   Der måles en 3.gang hvis de to foregående målinger er forhøjet i forhold til referencerammen (140/90).
+-   Noter den laveste måling i REDcap
 
 #### Efterarbejde
 

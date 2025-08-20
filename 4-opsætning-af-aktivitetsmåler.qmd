@@ -61,7 +61,7 @@ Det er vigtigt at `Record ID` indtastes **UDEN** bindestreg. `fx 531377`
 
 ![](pics/redc1.PNG)
 
--   Scroll ned til punkterne omkring accelerometer. Her indtastes Accelerometer ID nummer, det nummer der står printet på accelerometeret `fx 18 – 79290`
+-   Scroll ned til punkterne omkring accelerometer. Her indtastes Accelerometer ID nummer, det nummer der står printet på accelerometeret `fx 18 – 96887`
 
 -   TJEK igen at det indtastede accelerometer ID nummer i REDCap passer med det der er på accelerometeret.
 
